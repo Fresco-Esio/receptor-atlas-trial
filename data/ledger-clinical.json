@@ -1,0 +1,509 @@
+[
+  {
+    "no": 1,
+    "sys": "gaba",
+    "name": "GABA-A Receptor",
+    "cls": "Ionotropic Cl⁻ channel",
+    "baseline": "Tonic inhibitory tone, gates CNS firing, anxiolysis, muscle relaxation, slow-wave sleep.",
+    "mech": "Ligand binding opens a pentameric Cl⁻ channel; anion influx hyperpolarizes the membrane and raises the action-potential threshold, damping excitation.",
+    "stahl": "Stahl frames GABA-A positive allosteric modulation (benzodiazepines, “Z-drugs,” barbiturates) as the core of anxiolytic/hypnotic therapy; abrupt withdrawal removes tonic inhibition and precipitates seizures.",
+    "over": [
+      "Slurred dysarthric speech, psychomotor slowing",
+      "Cerebellar ataxia, loss of coordination",
+      "Hypoventilation, suppressed airway reflexes → coma",
+      "Profound CNS depression (benzo/barbiturate + alcohol)"
+    ],
+    "under": [
+      "Tremor, fasciculations, hyperreflexia",
+      "Delirium, autonomic hyperarousal, tachycardia",
+      "Rebound insomnia, hyperthermia (delirium tremens)",
+      "Tonic-clonic status epilepticus"
+    ],
+    "agonists": [
+      "Diazepam (PAM)",
+      "Alprazolam (PAM)",
+      "Zolpidem (PAM)",
+      "Phenobarbital (barbiturate-site PAM)"
+    ],
+    "antagonists": [
+      "Flumazenil",
+      "Bicuculline",
+      "Picrotoxin"
+    ]
+  },
+  {
+    "no": 2,
+    "sys": "glu",
+    "name": "NMDA Glutamate Receptor",
+    "cls": "Ligand + voltage-gated channel",
+    "baseline": "Excitatory plasticity, long-term potentiation, learning, memory consolidation.",
+    "mech": "Needs glutamate + glycine co-binding and depolarization to expel the Mg²⁺ pore block, then admits Ca²⁺ and Na⁺ to drive synaptic strengthening.",
+    "stahl": "Stahl describes NMDA hypofunction as a leading model of schizophrenia’s negative/cognitive symptoms; therapeutic blockade is harnessed by ketamine/esketamine (rapid antidepressant) and memantine (neuroprotection).",
+    "over": [
+      "Intracellular Ca²⁺ overload, enzymatic autodigestion",
+      "Mitochondrial collapse, oxidative stress",
+      "Excitotoxic neuronal death (stroke, TBI, status epilepticus)",
+      "Acute cerebral swelling"
+    ],
+    "under": [
+      "Dissociation: depersonalization, derealization",
+      "Analgesia, catatonia-like states",
+      "Psychotomimetic: paranoia, confusion (schizophrenia model)",
+      "Amnesia, blocked memory consolidation"
+    ],
+    "agonists": [
+      "Glycine",
+      "D-Serine",
+      "NMDA"
+    ],
+    "antagonists": [
+      "Ketamine",
+      "Esketamine",
+      "Memantine",
+      "Amantadine"
+    ]
+  },
+  {
+    "no": 3,
+    "sys": "da",
+    "name": "Dopamine D2 Receptor",
+    "cls": "GPCR (Gi/o)",
+    "baseline": "Motor and reward equilibrium, striatal gating, mesolimbic salience, prolactin suppression.",
+    "mech": "Gi/o inhibits adenylyl cyclase (↓ cAMP) and opens GIRK K⁺ channels, damping postsynaptic excitability across striatal and limbic circuits.",
+    "stahl": "Stahl: mesolimbic D2 hyperactivity drives positive psychotic symptoms; D2 antagonism/partial agonism is the shared antipsychotic & antimanic mechanism, with nigrostriatal blockade producing EPS and tardive dyskinesia.",
+    "over": [
+      "Aberrant salience: ideas of reference, paranoid delusion",
+      "Auditory hallucination",
+      "Psychomotor activation, pressured speech, mania",
+      "Impulse control disorder on dopamine agonists: gambling, hypersexuality, binge eating",
+      "Chorea and dyskinesia at high dopaminergic load"
+    ],
+    "under": [
+      "Acute dystonia: oculogyric crisis, torticollis, laryngospasm",
+      "Drug-induced parkinsonism: bradykinesia, rigidity, tremor",
+      "Akathisia: inner restlessness, inability to remain seated",
+      "Tardive dyskinesia: orofacial and limb choreoathetosis",
+      "Hyperprolactinaemia: galactorrhoea, amenorrhoea, sexual dysfunction",
+      "Neuroleptic malignant syndrome: rigidity, hyperthermia, autonomic instability"
+    ],
+    "agonists": [
+      "Pramipexole",
+      "Ropinirole",
+      "Bromocriptine",
+      "Aripiprazole (partial)"
+    ],
+    "antagonists": [
+      "Haloperidol",
+      "Chlorpromazine",
+      "Risperidone",
+      "Olanzapine"
+    ]
+  },
+  {
+    "no": 4,
+    "sys": "da",
+    "name": "Dopamine D1 Receptor",
+    "cls": "GPCR (Gs)",
+    "baseline": "Prefrontal cognition & working memory; excitatory “direct pathway” for movement initiation.",
+    "mech": "Gs activates adenylyl cyclase (↑cAMP → PKA). Stahl notes D1 is the dominant cortical dopamine receptor, tuning the signal-to-noise of prefrontal pyramidal networks.",
+    "stahl": "Stahl emphasizes the prefrontal D1 “inverted-U”: too little OR too much D1 tone degrades cognition. Optimizing D1 signaling underlies the pro-cognitive aim of stimulant and noradrenergic ADHD therapy.",
+    "over": [
+      "Inverted-U overload: degraded working memory",
+      "Hyperarousal, stereotyped behavior",
+      "Putative contribution to stimulant-induced psychosis",
+      "Dyskinesia in the direct motor pathway"
+    ],
+    "under": [
+      "Poor working memory, executive dysfunction",
+      "Cognitive “noise,” impaired focus",
+      "Hypodopaminergic prefrontal state (schizophrenia negative sx)",
+      "Reduced movement initiation"
+    ],
+    "agonists": [
+      "Dopamine",
+      "Fenoldopam",
+      "(experimental D1 agonists)"
+    ],
+    "antagonists": [
+      "SCH-23390 (research)",
+      "Some antipsychotics (mixed)"
+    ]
+  },
+  {
+    "no": 5,
+    "sys": "da",
+    "name": "DAT, Dopamine Transporter",
+    "cls": "Transporter (SLC6A3)",
+    "baseline": "Clears synaptic dopamine, terminates signaling, recycles transmitter, sets reward & motor tone.",
+    "mech": "Na⁺/Cl⁻-dependent presynaptic reuptake. A transporter, not a receptor: blockade raises synaptic dopamine; “overstimulated/understimulated” denotes synaptic dopamine excess vs. deficit.",
+    "stahl": "Stahl (Table 2-5): methylphenidate and amphetamine act indirectly by inhibiting/reversing DAT, raising dopamine to improve ADHD, depression, and wakefulness, the therapeutic mirror of cocaine’s abuse liability.",
+    "over": [
+      "(Blockade/reversal → ↑dopamine) euphoria, psychomotor agitation",
+      "Stereotypy, insomnia, appetite suppression",
+      "Paranoia/psychosis at high stimulant load",
+      "Tachycardia, hypertension"
+    ],
+    "under": [
+      "(Low tone) inattention, distractibility, impulsivity",
+      "Low motivation, anhedonia, fatigue",
+      "Psychomotor retardation",
+      "Hypodopaminergic reward deficit"
+    ],
+    "agonists": [
+      "Methylphenidate",
+      "Modafinil",
+      "Bupropion",
+      "Cocaine (reuptake blocker)"
+    ],
+    "antagonists": [
+      "Amphetamine (releaser / reverse transport)"
+    ]
+  },
+  {
+    "no": 6,
+    "sys": "5ht",
+    "name": "Serotonin 5-HT2A",
+    "cls": "GPCR (Gq/11)",
+    "baseline": "Cortical cognitive modulation, gates glutamate release, cognitive flexibility, cranial vascular tone.",
+    "mech": "Gq activates phospholipase C → IP3/DAG → intracellular Ca²⁺ release and PKC activation in cortical pyramidal networks.",
+    "stahl": "Stahl: 5-HT2A antagonism defines the “atypical” antipsychotic advantage, it disinhibits nigrostriatal dopamine (reducing EPS) and tempers cortical glutamate, easing positive symptoms.",
+    "over": [
+      "Clonus, hyperreflexia, rigidity (serotonin syndrome)",
+      "Diaphoresis, hyperthermia, mydriasis",
+      "Vivid hallucinations, ego dissolution (psychedelics)",
+      "Agitation, tremor, panic"
+    ],
+    "under": [
+      "Flattened affect, mild cognitive inflexibility",
+      "Reduced hallucinatory signaling",
+      "Normalized striatal dopamine → lower EPS risk",
+      "Improved slow-wave sleep"
+    ],
+    "agonists": [
+      "Psilocybin",
+      "LSD",
+      "Mescaline"
+    ],
+    "antagonists": [
+      "Pimavanserin",
+      "Clozapine",
+      "Olanzapine",
+      "Risperidone"
+    ]
+  },
+  {
+    "no": 7,
+    "sys": "5ht",
+    "name": "Serotonin 5-HT1A",
+    "cls": "GPCR (Gi/o)",
+    "baseline": "Somatodendritic autoreceptor + postsynaptic limbic receptor, sets serotonergic tone, anxiolysis, mood.",
+    "mech": "Gi/o lowers cAMP and opens GIRK K⁺ channels. Presynaptic raphe autoreceptors slow 5-HT firing; their desensitization underlies the delayed onset of SSRI benefit (Stahl).",
+    "stahl": "Stahl (Table 2-4): 5-HT1A partial agonism is anxiolytic, reduces parkinsonism, and boosts SSRI/SNRI antidepressant action, the mechanism shared by buspirone and the “pines/pips” with 5-HT1A pharmacology.",
+    "over": [
+      "Partial-agonist anxiolysis (buspirone-like)",
+      "Reduced drug-induced parkinsonism",
+      "At excess: sedation, contribution to serotonin syndrome",
+      "Hypotension, hypothermia (preclinical)"
+    ],
+    "under": [
+      "Heightened anxiety, low mood",
+      "Loss of SSRI “booster” augmentation",
+      "Reduced stress-buffering / fear extinction",
+      "Greater vulnerability to depression"
+    ],
+    "agonists": [
+      "Buspirone (partial)",
+      "Vilazodone",
+      "Vortioxetine",
+      "Aripiprazole (partial)"
+    ],
+    "antagonists": [
+      "Pindolol (augmentation tool)",
+      "WAY-100635 (research)"
+    ]
+  },
+  {
+    "no": 8,
+    "sys": "5ht",
+    "name": "Serotonin 5-HT2C",
+    "cls": "GPCR (Gq/11)",
+    "baseline": "Inhibits downstream dopamine/norepinephrine release; regulates appetite, mood, and prolactin.",
+    "mech": "Gq → PLC → Ca²⁺/PKC. Net inhibitory on mesocortical DA/NE. Stahl notes 5-HT2C antagonism disinhibits DA/NE in cortex, contributing to antidepressant effect.",
+    "stahl": "Stahl (Table 2-4): 5-HT2C antagonism is antidepressant (disinhibits prefrontal DA/NE), but the same blockade drives the weight gain seen with agents like mirtazapine and olanzapine.",
+    "over": [
+      "Appetite suppression, reduced food intake",
+      "Anxiety, dysphoria",
+      "Dampened cortical dopamine/norepinephrine",
+      "Possible sexual dysfunction"
+    ],
+    "under": [
+      "(Antagonism) antidepressant disinhibition of DA/NE",
+      "Increased appetite → weight gain",
+      "Improved sleep continuity",
+      "Procognitive cortical activation"
+    ],
+    "agonists": [
+      "Lorcaserin (appetite)",
+      "mCPP (metabolite)"
+    ],
+    "antagonists": [
+      "Mirtazapine",
+      "Agomelatine",
+      "Olanzapine",
+      "Fluoxetine (partial)"
+    ]
+  },
+  {
+    "no": 9,
+    "sys": "5ht",
+    "name": "SERT, Serotonin Transporter",
+    "cls": "Transporter (SLC6A4)",
+    "baseline": "Clears synaptic serotonin, stable mood, sleep architecture, appetite, low rumination.",
+    "mech": "Na⁺/Cl⁻-dependent presynaptic reuptake. A transporter, not a receptor: SSRIs/SNRIs block it to raise synaptic 5-HT. States denote synaptic serotonin excess vs. deficit.",
+    "stahl": "Stahl (Table 2-5): SERT inhibition by SSRIs/SNRIs is the foundational antidepressant/anxiolytic mechanism; the 5-HTTLPR short allele confers stress-linked mood vulnerability.",
+    "over": [
+      "Agitation, tremor, hyperreflexia, myoclonus",
+      "Rigidity → sustained clonus",
+      "Diaphoresis, tachycardia, hyperthermia >38.5°C",
+      "Confusion, delirium (serotonin syndrome)"
+    ],
+    "under": [
+      "Depressed mood, anhedonia",
+      "Early-morning awakening, psychomotor retardation",
+      "Obsessive rumination, anxiety",
+      "Social withdrawal"
+    ],
+    "agonists": [
+      "Fluoxetine",
+      "Sertraline",
+      "Escitalopram",
+      "Venlafaxine",
+      "Duloxetine",
+      "Cocaine (reuptake blocker)"
+    ],
+    "antagonists": [
+      "Tianeptine (atypical reuptake enhancer)"
+    ]
+  },
+  {
+    "no": 10,
+    "sys": "ne",
+    "name": "Beta-1 (β1) Adrenergic",
+    "cls": "GPCR (Gs)",
+    "baseline": "Cardiorespiratory drive, heart rate, contractility, AV conduction, renin release.",
+    "mech": "Gs → adenylyl cyclase → cAMP → PKA phosphorylates L-type Ca²⁺ channels, increasing cardiac rate and force.",
+    "stahl": "Stahl notes peripheral β1 effects are mostly off-target in psychiatry; centrally, lipophilic propranolol blunts the somatic (tremor, palpitations) symptoms of performance anxiety and adrenergic hyperarousal.",
+    "over": [
+      "Sinus tachycardia, palpitations, ectopy",
+      "Hypertension, angina, ↑myocardial O₂ demand",
+      "Anxiety, hyperarousal, fine hand tremor",
+      "Atrial fibrillation / ventricular tachycardia"
+    ],
+    "under": [
+      "Sinus bradycardia (<50 bpm)",
+      "AV nodal block",
+      "Hypotension, orthostasis, exercise intolerance",
+      "Fatigue, cold extremities (cardiogenic shock risk)"
+    ],
+    "agonists": [
+      "Dobutamine",
+      "Epinephrine",
+      "Norepinephrine"
+    ],
+    "antagonists": [
+      "Metoprolol",
+      "Atenolol",
+      "Propranolol (CNS-penetrant)"
+    ]
+  },
+  {
+    "no": 11,
+    "sys": "ne",
+    "name": "Alpha-1 Adrenergic",
+    "cls": "GPCR (Gq/11)",
+    "baseline": "Vascular tone & smooth-muscle contraction, blood pressure, postural response, sphincter/pupil tone.",
+    "mech": "Gq → PLC → IP3/DAG → ↑Ca²⁺ → smooth-muscle contraction, raising peripheral resistance and blood pressure.",
+    "stahl": "Stahl (Table 2-4): α1 antagonism improves PTSD nightmares (prazosin) and Alzheimer agitation, but the same blockade by many antipsychotics causes orthostatic hypotension and sedation.",
+    "over": [
+      "Severe hypertension, headache, chest pain",
+      "Pulmonary edema, orthopnea",
+      "Acute kidney injury, oliguria",
+      "Myocardial ischemia, arrhythmia"
+    ],
+    "under": [
+      "Postural dizziness, syncope on standing",
+      "Hypotension, reduced cerebral perfusion",
+      "Nasal congestion, miosis",
+      "Fatigue, cold extremities"
+    ],
+    "agonists": [
+      "Phenylephrine",
+      "Norepinephrine",
+      "Oxymetazoline"
+    ],
+    "antagonists": [
+      "Prazosin",
+      "Doxazosin",
+      "Tamsulosin",
+      "Chlorpromazine (off-target)"
+    ]
+  },
+  {
+    "no": 12,
+    "sys": "ne",
+    "name": "Alpha-2 Adrenergic",
+    "cls": "GPCR (Gi/o)",
+    "baseline": "Presynaptic autoinhibition of NE release, calm arousal, stable BP, attention, fear extinction.",
+    "mech": "Gi/o inhibits adenylyl cyclase. Presynaptic α2A autoreceptors give negative feedback on NE; central activation lowers sympathetic outflow and blood pressure.",
+    "stahl": "Stahl (Table 2-4): postsynaptic α2A agonism (guanfacine, clonidine) strengthens prefrontal connectivity, improving ADHD attention and behavioral control; α2 antagonism (mirtazapine) disinhibits NE & 5-HT for antidepressant effect.",
+    "over": [
+      "Sedation, bradycardia, hypotension, dry mouth",
+      "On abrupt withdrawal: rebound hypertension, tremor",
+      "Tachycardia, sweating, insomnia, agitation",
+      "Risk of ACS/stroke from BP surge"
+    ],
+    "under": [
+      "Anxiety, tremor, inner restlessness",
+      "Insomnia, early awakening",
+      "Tachycardia, hypertension, flushing",
+      "Impaired working memory, hypervigilance"
+    ],
+    "agonists": [
+      "Clonidine",
+      "Guanfacine",
+      "Dexmedetomidine",
+      "Methyldopa"
+    ],
+    "antagonists": [
+      "Mirtazapine",
+      "Yohimbine",
+      "Idazoxan"
+    ]
+  },
+  {
+    "no": 13,
+    "sys": "ne",
+    "name": "NET, Norepinephrine Transporter",
+    "cls": "Transporter (SLC6A2)",
+    "baseline": "Clears synaptic NE, focused attention, working memory, controlled anxiety, pain modulation.",
+    "mech": "Na⁺/Cl⁻-dependent reuptake (noradrenergic analogue of SERT). Inhibitors raise synaptic NE. States denote synaptic NE excess vs. deficit.",
+    "stahl": "Stahl (Table 2-5): NET inhibition (atomoxetine, reboxetine, SNRIs, TCAs) raises NE to treat ADHD, depression, and neuropathic pain; in prefrontal cortex NET also clears dopamine, reinforcing the pro-attention effect.",
+    "over": [
+      "Hypertension, tachycardia, fine tremor",
+      "Agitation, anxiety, insomnia, hypervigilance",
+      "Diaphoresis, mydriasis, piloerection",
+      "ACS / stroke risk in vulnerable patients"
+    ],
+    "under": [
+      "Inattention, distractibility, impulsivity",
+      "Fatigue, low motivation",
+      "Psychomotor retardation",
+      "Impaired fear extinction, orthostatic intolerance"
+    ],
+    "agonists": [
+      "Atomoxetine",
+      "Reboxetine",
+      "Venlafaxine",
+      "Duloxetine",
+      "Desipramine",
+      "Cocaine (reuptake blocker)"
+    ],
+    "antagonists": [
+      "Amphetamine (releaser / reverse transport)"
+    ]
+  },
+  {
+    "no": 14,
+    "sys": "ach",
+    "name": "M1 Muscarinic",
+    "cls": "GPCR (Gq/11)",
+    "baseline": "Postsynaptic cognition & striatal balance, memory, learning, reciprocal control with dopamine.",
+    "mech": "Gq → PLC → IP3/DAG excitation. Stahl: M1 sits in reciprocal balance with striatal D2, D2 blockade disinhibits ACh, and M1 antagonism then restores motor balance.",
+    "stahl": "Stahl (Table 2-4 & Ch. 5): M1 agonism is procognitive/antipsychotic (the basis of xanomeline-trospium); M1 antagonism reduces drug-induced parkinsonism but at the cost of the classic anticholinergic burden, sedation, memory loss, and peripheral dryness.",
+    "over": [
+      "(Agonism, e.g. xanomeline) procognitive & antipsychotic",
+      "Cholinergic excess: nausea, GI cramping",
+      "Salivation, lacrimation, sweating",
+      "Bradycardia at systemic excess"
+    ],
+    "under": [
+      "Sedation, drowsiness",
+      "Memory & concentration impairment, slowed cognition",
+      "Dry mouth, blurred vision, constipation, urinary retention",
+      "Confusion / anticholinergic delirium; paralytic ileus"
+    ],
+    "agonists": [
+      "Xanomeline",
+      "Acetylcholine",
+      "Cholinesterase inhibitors (indirect)"
+    ],
+    "antagonists": [
+      "Benztropine",
+      "Trihexyphenidyl",
+      "Many TCAs / low-potency antipsychotics"
+    ]
+  },
+  {
+    "no": 15,
+    "sys": "ha",
+    "name": "Histamine H1",
+    "cls": "GPCR (Gq/11)",
+    "baseline": "Wakefulness & arousal, promotes alert waking state, appetite regulation, cortical activation.",
+    "mech": "Gq → PLC excitation in cortex and tuberomammillary arousal pathways. CNS H1 blockade lowers histaminergic wake drive (Stahl).",
+    "stahl": "Stahl (Table 2-4): H1 antagonism is therapeutic for anxiety and insomnia, but the same central blockade produces the sedation and weight gain that limit many antidepressants and antipsychotics (e.g., mirtazapine, olanzapine, quetiapine).",
+    "over": [
+      "Heightened arousal, wakefulness",
+      "Appetite suppression",
+      "Allergic-type peripheral effects",
+      "Cortical activation"
+    ],
+    "under": [
+      "Sedation, drowsiness (therapeutic for insomnia/anxiety)",
+      "Weight gain and increased appetite (also sedation-driven inactivity, metabolic effects)",
+      "Daytime grogginess, cognitive dulling",
+      "Possible metabolic dysregulation"
+    ],
+    "agonists": [
+      "Histamine",
+      "Betahistine (partial/indirect)"
+    ],
+    "antagonists": [
+      "Diphenhydramine",
+      "Hydroxyzine",
+      "Doxepin (low-dose)",
+      "Mirtazapine",
+      "Olanzapine / Quetiapine (off-target)"
+    ]
+  },
+  {
+    "no": 16,
+    "sys": "opioid",
+    "name": "μ-Opioid Receptor (MOR)",
+    "cls": "GPCR (Gi/o)",
+    "baseline": "Nociceptive gating, modulates pain transmission, descending inhibition, satiety, gut motility.",
+    "mech": "Gi/o inhibits adenylyl cyclase (↓cAMP); βγ opens GIRK K⁺ channels and closes Ca²⁺ channels to block nociceptive transmitter release.",
+    "stahl": "Stahl frames MOR within reward and dependence circuitry; partial agonism (buprenorphine) and antagonism (naltrexone) anchor addiction maintenance, while naloxone reverses acute overdose at the brainstem.",
+    "over": [
+      "Miosis (pinpoint pupils)",
+      "Hypoventilation → respiratory arrest, hypoxemia",
+      "Obtundation → coma",
+      "Bradycardia, hypotension, ileus (overdose triad)"
+    ],
+    "under": [
+      "Mydriasis, yawning, sneezing",
+      "GI hypermotility, cramping, vomiting, diarrhea",
+      "Diffuse hyperalgesia, deep-tissue pain",
+      "Diaphoresis, piloerection, agitation (withdrawal)"
+    ],
+    "agonists": [
+      "Morphine",
+      "Fentanyl",
+      "Methadone",
+      "Buprenorphine (partial)"
+    ],
+    "antagonists": [
+      "Naloxone",
+      "Naltrexone"
+    ]
+  }
+]

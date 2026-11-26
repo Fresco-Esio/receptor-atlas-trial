@@ -1,0 +1,197 @@
+[
+  {
+    "id": "d2",
+    "alias": "dopamine_d2",
+    "label": "Dopamine D2",
+    "claim": "Antipsychotic efficacy = mesolimbic D2 blockade; EPS = nigrostriatal and hyperprolactinemia = tuberoinfundibular D2 blockade.",
+    "status": "provided",
+    "source": {
+      "id": 5,
+      "authors": "Ford CP",
+      "year": 2014,
+      "title": "The role of D2-autoreceptors in regulating dopamine neuron activity and transmission",
+      "pmid": "24463000",
+      "doi": "10.1016/j.neuroscience.2014.01.025"
+    }
+  },
+  {
+    "id": "ht2a",
+    "alias": "serotonin_5ht2a",
+    "label": "Serotonin 5-HT2A",
+    "claim": "5-HT2A antagonism disinhibits nigrostriatal DA, reducing EPS — the basis of ‘atypicality’; agonism underlies psychedelics.",
+    "status": "provided",
+    "source": {
+      "id": 10,
+      "authors": "Nichols DE",
+      "year": 2016,
+      "title": "Psychedelics",
+      "pmid": "26841800",
+      "doi": "10.1124/pr.115.011478"
+    }
+  },
+  {
+    "id": "sert",
+    "alias": "sert",
+    "label": "SERT — Serotonin Transporter",
+    "claim": "SERT inhibition by SSRIs/SNRIs is the foundational antidepressant/anxiolytic mechanism; ~80% occupancy needed, with delayed onset.",
+    "status": "provided",
+    "source": {
+      "id": 13,
+      "authors": "Murthy MK",
+      "year": 2025,
+      "title": "Molecular pathways linking the serotonin transporter (SERT) to depression",
+      "pmid": "40789515",
+      "doi": "10.1016/j.neuroscience.2025.08.009"
+    }
+  },
+  {
+    "id": "a1",
+    "alias": "alpha_1",
+    "label": "Alpha-1 Adrenergic",
+    "claim": "α1 antagonism improves PTSD nightmares (prazosin) and agitation, but causes orthostasis and sedation.",
+    "status": "provided",
+    "source": {
+      "id": 14,
+      "authors": "Kulkarni & Wilkinson",
+      "year": 2024,
+      "title": "Adrenoceptors and Hypertension",
+      "pmid": "38890192",
+      "doi": "10.1007/164_2024_719"
+    }
+  },
+  {
+    "id": "a2",
+    "alias": "alpha_2",
+    "label": "Alpha-2 Adrenergic",
+    "claim": "Postsynaptic α2A agonism (guanfacine, clonidine) strengthens prefrontal connectivity; presynaptic α2 antagonism (mirtazapine) boosts NE/5-HT.",
+    "status": "provided",
+    "source": {
+      "id": 16,
+      "authors": "Szabo B",
+      "year": 2024,
+      "title": "Presynaptic Adrenoceptors",
+      "pmid": "38755350",
+      "doi": "10.1007/164_2024_714"
+    }
+  },
+  {
+    "id": "b1",
+    "alias": "beta_1",
+    "label": "Beta-1 (β1) Adrenergic",
+    "claim": "Central β role in psychiatry is limited; propranolol is used for performance/somatic anxiety and akathisia.",
+    "status": "provided",
+    "source": {
+      "id": 17,
+      "authors": "Ahles & Engelhardt",
+      "year": 2014,
+      "title": "Polymorphic variants of adrenoceptors: pharmacology, physiology",
+      "pmid": "24928328",
+      "doi": "10.1124/pr.113.008219"
+    }
+  },
+  {
+    "id": "net",
+    "alias": "net",
+    "label": "NET — Norepinephrine Transporter",
+    "claim": "NET inhibition (atomoxetine, SNRIs, TCAs) raises NE — and DA in prefrontal cortex (sparse DAT) — treating ADHD/depression.",
+    "status": "provided",
+    "source": {
+      "id": 18,
+      "authors": "Mwesigwa & Shibao",
+      "year": 2024,
+      "title": "Norepinephrine Reuptake Inhibition, an Emergent Treatment…",
+      "pmid": "38766862",
+      "doi": "10.1161/HYPERTENSIONAHA.124.22069"
+    }
+  },
+  {
+    "id": "nmda",
+    "alias": "nmda_glutamate",
+    "label": "NMDA Glutamate Receptor",
+    "claim": "NMDA hypofunction is a leading model of schizophrenia’s negative/cognitive symptoms; ketamine (high-affinity) vs memantine (low-affinity) open-channel block differ clinically.",
+    "status": "provided",
+    "source": {
+      "id": 19,
+      "authors": "Hansen et al.",
+      "year": 2018,
+      "title": "Structure, function, and allosteric modulation of NMDA receptors",
+      "pmid": "30037851",
+      "doi": "10.1085/jgp.201812032"
+    }
+  },
+  {
+    "id": "gabaa",
+    "alias": "gaba_a",
+    "label": "GABA-A Receptor",
+    "claim": "GABA-A positive allosteric modulation (benzodiazepines, Z-drugs, barbiturates) is anxiolytic/hypnotic; the benzodiazepine ceiling vs barbiturate direct gating explains overdose safety.",
+    "status": "provided",
+    "source": {
+      "id": 21,
+      "authors": "Ghit et al.",
+      "year": 2021,
+      "title": "GABA-A receptors: structure, function, pharmacology, and related disorders",
+      "pmid": "34417930",
+      "doi": "10.1186/s43141-021-00224-0"
+    }
+  },
+  {
+    "id": "h1",
+    "alias": "histamine_h1",
+    "label": "Histamine H1",
+    "claim": "Central H1 antagonism causes sedation and weight gain (olanzapine, quetiapine); peripheral effects underlie antihistamine use.",
+    "status": "provided",
+    "source": {
+      "id": 25,
+      "authors": "Panula et al.",
+      "year": 2015,
+      "title": "International Union of Basic and Clinical Pharmacology: Histamine receptors",
+      "pmid": "26084539",
+      "doi": "10.1124/pr.114.010249"
+    }
+  },
+  {
+    "id": "m1",
+    "alias": "muscarinic_m1",
+    "label": "Muscarinic M1",
+    "claim": "M1 agonism (xanomeline) is procognitive/antipsychotic; M1 blockade causes anticholinergic effects but can reduce EPS.",
+    "status": "conflicting",
+    "source": {
+      "id": 26,
+      "authors": "Kruse et al.",
+      "year": 2014,
+      "title": "Muscarinic acetylcholine receptors: novel opportunities for drug discovery",
+      "pmid": "24903776",
+      "doi": "10.1038/nrd4295"
+    }
+  },
+  {
+    "id": "m3",
+    "alias": "muscarinic_m3",
+    "label": "Muscarinic M3",
+    "claim": "M3 blockade by some antipsychotics impairs insulin release, contributing to metabolic risk.",
+    "status": "conflicting",
+    "source": {
+      "id": 26,
+      "authors": "Kruse et al.",
+      "year": 2014,
+      "title": "Muscarinic acetylcholine receptors: novel opportunities for drug discovery",
+      "pmid": "24903776",
+      "doi": "10.1038/nrd4295"
+    }
+  },
+  {
+    "id": "mor",
+    "alias": "mu_opioid",
+    "label": "μ-Opioid Receptor (MOR)",
+    "claim": "MOR full agonism (morphine), partial agonism (buprenorphine), and antagonism (naloxone) span analgesia, OUD treatment, and reversal.",
+    "status": "provided",
+    "source": {
+      "id": 29,
+      "authors": "Pasternak GW",
+      "year": 2018,
+      "title": "Mu Opioid Pharmacology: 40 Years to the Promised Land",
+      "pmid": "29413524",
+      "doi": "10.1016/bs.apha.2017.09.006"
+    }
+  }
+]

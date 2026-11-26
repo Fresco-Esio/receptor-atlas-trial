@@ -1,0 +1,8049 @@
+[
+  {
+    "name": "Acetylcholine",
+    "g": "antichol",
+    "cid": 187,
+    "b": {
+      "muscarinic_m1": {
+        "ki": 4.47,
+        "kiText": "median of 2 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.24,
+        "hi": 8.47,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m3": {
+        "ki": 141,
+        "kiText": "median of 2 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.38,
+        "hi": 8.33,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Alprazolam",
+    "g": "anx",
+    "cid": 2118,
+    "b": {
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "gaba_a": {
+        "ki": 1.07,
+        "kiText": "median of 8 human values, plus 2 screens with no binding",
+        "act": "pa",
+        "actFull": "Positive allosteric modulator",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 8.81,
+        "hi": 9.23,
+        "nc": 2,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Amisulpride",
+    "g": "sga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "6 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 6
+      },
+      "alpha_2": {
+        "ki": 339,
+        "kiText": "median of 2 human values at Alpha2A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.95,
+        "hi": 7,
+        "sub": "Alpha2A"
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dopamine_d2": {
+        "ki": 3.02,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.62,
+        "hi": 8.89,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 6.46,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.77,
+        "hi": 8.62,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "gaba_a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "mu_opioid": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "serotonin_5ht1a": {
+        "ki": 3550,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.45,
+        "hi": 5.45,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 2510,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.08,
+        "hi": 6.13
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      }
+    }
+  },
+  {
+    "name": "Amitriptyline",
+    "g": "tca",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 3.98,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.4,
+        "hi": 8.4,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dat": {
+        "ki": 3890,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 5.12,
+        "hi": 5.59
+      },
+      "dopamine_d2": {
+        "ki": 1000,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.84,
+        "hi": 6.71
+      },
+      "dopamine_d3": {
+        "ki": 204,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.69,
+        "hi": 6.69
+      },
+      "histamine_h1": {
+        "ki": 0.955,
+        "kiText": "median of 8 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 8.95,
+        "hi": 9.3,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 12.6,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.83,
+        "hi": 7.96,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m3": {
+        "ki": 22.4,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.41,
+        "hi": 7.89,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "net": {
+        "ki": 46.8,
+        "kiText": "median of 6 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 6.75,
+        "hi": 7.88,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 447,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.35,
+        "hi": 6.35
+      },
+      "serotonin_5ht2a": {
+        "ki": 22.9,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.64,
+        "hi": 7.64,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 3.98,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.4,
+        "hi": 8.4,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 12.3,
+        "kiText": "median of 6 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 6.91,
+        "hi": 8.55,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Amphetamine",
+    "g": "stim",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 6030,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.22,
+        "hi": 5.22
+      },
+      "alpha_2": {
+        "ki": 2820,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.55,
+        "hi": 5.55
+      },
+      "dat": {
+        "ki": 191,
+        "kiText": "median of 5 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 5.25,
+        "hi": 6.96,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 525,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6,
+        "hi": 7
+      },
+      "serotonin_5ht1a": {
+        "ki": 6610,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.17,
+        "hi": 5.18
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 5750,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.24,
+        "hi": 5.24,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Aripiprazole",
+    "g": "sga",
+    "cid": 60795,
+    "b": {
+      "alpha_1": {
+        "ki": 33.9,
+        "kiText": "median of 7 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 6.16,
+        "hi": 7.6,
+        "weak": 1
+      },
+      "alpha_2": {
+        "ki": 74.1,
+        "kiText": "median of 11 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 6.72,
+        "hi": 7.43,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 141,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.85,
+        "hi": 6.85
+      },
+      "dat": {
+        "ki": 3240,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.49,
+        "hi": 5.49
+      },
+      "dopamine_d2": {
+        "ki": 1.58,
+        "kiText": "median of 19 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 19,
+        "lo": 7.52,
+        "hi": 9.47,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 3.09,
+        "kiText": "median of 11 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 7.04,
+        "hi": 9.1
+      },
+      "gaba_a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 26.3,
+        "kiText": "median of 10 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 10,
+        "lo": 7.21,
+        "hi": 7.74,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "mu_opioid": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "muscarinic_m1": {
+        "ki": 6760,
+        "kiText": "median of 5 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 5.17,
+        "hi": 5.17
+      },
+      "muscarinic_m3": {
+        "ki": 4680,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.33,
+        "hi": 5.33
+      },
+      "net": {
+        "ki": 2090,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.68,
+        "hi": 5.68
+      },
+      "serotonin_5ht1a": {
+        "ki": 5.62,
+        "kiText": "median of 11 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 7.3,
+        "hi": 8.89,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 8.91,
+        "kiText": "median of 14 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 14,
+        "lo": 6.82,
+        "hi": 8.47,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 61.7,
+        "kiText": "median of 9 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 7.07,
+        "hi": 7.82,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 1070,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 5.97,
+        "hi": 5.97
+      }
+    }
+  },
+  {
+    "name": "Asenapine",
+    "g": "sga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 20,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.46,
+        "hi": 7.82,
+        "weak": 1
+      },
+      "alpha_2": {
+        "ki": 12.9,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.79,
+        "hi": 8.74,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 20,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.7,
+        "hi": 7.7,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 12,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.92,
+        "hi": 7.92
+      },
+      "gaba_a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 0.977,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 9.01,
+        "hi": 9.01,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "mu_opioid": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 4.68,
+        "kiText": "median of 1 human value",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.33,
+        "hi": 8.33,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 0.158,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 9.8,
+        "hi": 9.8,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 0.24,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 9.62,
+        "hi": 9.62
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Atomoxetine",
+    "g": "stim",
+    "cid": 54841,
+    "b": {
+      "alpha_2": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "dat": {
+        "ki": 1450,
+        "kiText": "median of 1 human value",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.84,
+        "hi": 5.84,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d2": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "histamine_h1": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "muscarinic_m1": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "net": {
+        "ki": 5.01,
+        "kiText": "median of 1 human value",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.3,
+        "hi": 8.3,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "serotonin_5ht2a": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "serotonin_5ht2c": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "sert": {
+        "ki": 77.6,
+        "kiText": "median of 1 human value",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.11,
+        "hi": 7.11,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Benztropine",
+    "g": "antichol",
+    "cid": 1201549,
+    "b": {
+      "histamine_h1": {
+        "ki": 0.871,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.96,
+        "hi": 9.15
+      },
+      "muscarinic_m1": {
+        "ki": 0.229,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 9.64,
+        "hi": 9.64,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m3": {
+        "ki": 1.1,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.96,
+        "hi": 8.96
+      }
+    }
+  },
+  {
+    "name": "Bethanechol",
+    "g": "antichol",
+    "cid": 2370,
+    "b": {
+      "muscarinic_m1": {
+        "ki": 191,
+        "kiText": "median of 1 human value",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.72,
+        "hi": 6.72,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Brexpiprazole",
+    "g": "sga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 4.79,
+        "kiText": "median of 2 human values at Alpha1B",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.87,
+        "hi": 9.77,
+        "sub": "Alpha1B"
+      },
+      "alpha_2": {
+        "ki": 3.8,
+        "kiText": "median of 2 human values at Alpha2C",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.62,
+        "hi": 9.23,
+        "sub": "Alpha2C"
+      },
+      "beta_1": {
+        "ki": 692,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.16,
+        "hi": 6.16
+      },
+      "dat": {
+        "ki": 1820,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.74,
+        "hi": 5.74
+      },
+      "dopamine_d2": {
+        "ki": 3.47,
+        "kiText": "median of 2 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.4,
+        "hi": 9.52,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 5.75,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.52,
+        "hi": 8.96
+      },
+      "histamine_h1": {
+        "ki": 11.5,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.72,
+        "hi": 8.17
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 0.363,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.96,
+        "hi": 9.92
+      },
+      "serotonin_5ht2a": {
+        "ki": 1.35,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.41,
+        "hi": 9.33
+      },
+      "serotonin_5ht2c": {
+        "ki": 28.8,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.54,
+        "hi": 7.54
+      },
+      "sert": {
+        "ki": 245,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.61,
+        "hi": 6.61
+      }
+    }
+  },
+  {
+    "name": "Bromocriptine",
+    "g": "da",
+    "cid": 31101,
+    "b": {
+      "alpha_1": {
+        "ki": 1.38,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 8.38,
+        "hi": 8.95,
+        "weak": 1
+      },
+      "alpha_2": {
+        "ki": 28.2,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.46,
+        "hi": 7.96,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "beta_1": {
+        "ki": 589,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.23,
+        "hi": 6.23
+      },
+      "dopamine_d2": {
+        "ki": 5.01,
+        "kiText": "median of 15 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 15,
+        "lo": 6.96,
+        "hi": 9.21,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 7.08,
+        "kiText": "median of 5 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 7.92,
+        "hi": 8.68,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 12.9,
+        "kiText": "median of 4 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 7.6,
+        "hi": 8,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 107,
+        "kiText": "median of 2 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.97,
+        "hi": 6.97,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 741,
+        "kiText": "median of 1 human value",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.13,
+        "hi": 6.13,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Buprenorphine",
+    "g": "opioid",
+    "cid": 644073,
+    "b": {
+      "dat": {
+        "ki": 2000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.7,
+        "hi": 5.7
+      },
+      "mu_opioid": {
+        "ki": 1.17,
+        "kiText": "median of 6 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 6,
+        "hi": 9.68,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Bupropion",
+    "g": "adatyp",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 661,
+        "kiText": "median of 8 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 5.74,
+        "hi": 6.36,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 6610,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.18,
+        "hi": 5.18,
+        "nc": 2
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 6920,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.16,
+        "hi": 5.16,
+        "nc": 2,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 9120,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.04,
+        "hi": 5.04,
+        "nc": 2
+      }
+    }
+  },
+  {
+    "name": "Buspirone",
+    "g": "anx",
+    "cid": null,
+    "b": {
+      "serotonin_5ht1a": {
+        "ki": 20.9,
+        "kiText": "median of 11 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 6.67,
+        "hi": 8.4,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 138,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.86,
+        "hi": 6.86
+      },
+      "serotonin_5ht2c": {
+        "ki": 490,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.31,
+        "hi": 6.31
+      }
+    }
+  },
+  {
+    "name": "Cariprazine",
+    "g": "sga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 977,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.85,
+        "hi": 6.42,
+        "weak": 1
+      },
+      "alpha_2": {
+        "ki": 646,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.91,
+        "hi": 7.06,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 324,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.49,
+        "hi": 6.49
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 0.692,
+        "kiText": "median of 3 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.74,
+        "hi": 9.31,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 0.427,
+        "kiText": "median of 2 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.68,
+        "hi": 10.07,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "histamine_h1": {
+        "ki": 15.1,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.64,
+        "hi": 8
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 2.04,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.52,
+        "hi": 8.85
+      },
+      "serotonin_5ht2a": {
+        "ki": 26.3,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.43,
+        "hi": 7.72
+      },
+      "serotonin_5ht2c": {
+        "ki": 234,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.38,
+        "hi": 6.87
+      },
+      "sert": {
+        "ki": 3630,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.44,
+        "hi": 5.44
+      }
+    }
+  },
+  {
+    "name": "Chlorpromazine",
+    "g": "fga",
+    "cid": 2726,
+    "b": {
+      "alpha_1": {
+        "ki": 0.282,
+        "kiText": "median of 2 human values at Alpha1A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 9.55,
+        "hi": 9.55,
+        "sub": "Alpha1A"
+      },
+      "alpha_2": {
+        "ki": 45.7,
+        "kiText": "median of 10 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 10,
+        "lo": 6.25,
+        "hi": 8.32,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 1740,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.76,
+        "hi": 5.76,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 3.47,
+        "kiText": "median of 26 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 26,
+        "lo": 6.4,
+        "hi": 9.18,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 3.02,
+        "kiText": "median of 11 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 8.16,
+        "hi": 9.08,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "histamine_h1": {
+        "ki": 5.01,
+        "kiText": "median of 10 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 10,
+        "lo": 8.04,
+        "hi": 9.74,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 34.7,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 7.21,
+        "hi": 7.6
+      },
+      "muscarinic_m3": {
+        "ki": 56.2,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 7.17,
+        "hi": 7.33
+      },
+      "net": {
+        "ki": 2450,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.61,
+        "hi": 5.61
+      },
+      "serotonin_5ht1a": {
+        "ki": 3090,
+        "kiText": "median of 6 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 5.51,
+        "hi": 6.93,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 2.75,
+        "kiText": "median of 12 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 12,
+        "lo": 6.95,
+        "hi": 8.85,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 25.1,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.57,
+        "hi": 8.21,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 1290,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.89,
+        "hi": 5.89
+      }
+    }
+  },
+  {
+    "name": "Citalopram",
+    "g": "ssri",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "alpha_2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "6 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 6
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 363,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.33,
+        "hi": 6.55
+      },
+      "muscarinic_m1": {
+        "ki": 1450,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.84,
+        "hi": 5.84
+      },
+      "net": {
+        "ki": 5620,
+        "kiText": "median of 6 human values, plus 2 screens with no binding",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 5.06,
+        "hi": 5.39,
+        "nc": 2,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 6460,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.19,
+        "hi": 5.19,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 525,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.21,
+        "hi": 6.35
+      },
+      "sert": {
+        "ki": 3.98,
+        "kiText": "median of 16 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 16,
+        "lo": 7.48,
+        "hi": 9,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Clomipramine",
+    "g": "tca",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 3.24,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.49,
+        "hi": 8.49,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "alpha_2": {
+        "ki": 525,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.28,
+        "hi": 6.28
+      },
+      "dat": {
+        "ki": 2570,
+        "kiText": "median of 2 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.52,
+        "hi": 5.66,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d2": {
+        "ki": 162,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.72,
+        "hi": 7.11
+      },
+      "dopamine_d3": {
+        "ki": 38.9,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.3,
+        "hi": 7.52
+      },
+      "histamine_h1": {
+        "ki": 20,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.51,
+        "hi": 7.89
+      },
+      "net": {
+        "ki": 44.7,
+        "kiText": "median of 2 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.27,
+        "hi": 7.42,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "serotonin_5ht2a": {
+        "ki": 35.5,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.45,
+        "hi": 7.45
+      },
+      "serotonin_5ht2c": {
+        "ki": 64.6,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.19,
+        "hi": 7.19
+      },
+      "sert": {
+        "ki": 0.2,
+        "kiText": "median of 2 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 9.55,
+        "hi": 9.85,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Clonazepam",
+    "g": "anx",
+    "cid": null,
+    "b": {
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "gaba_a": {
+        "ki": 1.7,
+        "kiText": "median of 3 human values, plus 1 screen with no binding",
+        "act": "pa",
+        "actFull": "Positive allosteric modulator",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 8.7,
+        "hi": 8.9,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Clonidine",
+    "g": "stim",
+    "cid": 2803,
+    "b": {
+      "alpha_1": {
+        "ki": 316,
+        "kiText": "median of 3 human values",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.5,
+        "hi": 6.9,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "alpha_2": {
+        "ki": 61.7,
+        "kiText": "median of 11 human values",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 6.3,
+        "hi": 8.14,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "net": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Clozapine",
+    "g": "sga",
+    "cid": 135398737,
+    "b": {
+      "alpha_1": {
+        "ki": 1.58,
+        "kiText": "median of 4 human values at Alpha1A",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 8.79,
+        "hi": 8.8,
+        "sub": "Alpha1A",
+        "actSrc": "IUPHAR/BPS"
+      },
+      "alpha_2": {
+        "ki": 33.9,
+        "kiText": "median of 19 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 19,
+        "lo": 6.51,
+        "hi": 8.54,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 5010,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.3,
+        "hi": 5.3,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dopamine_d2": {
+        "ki": 141,
+        "kiText": "median of 56 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 56,
+        "lo": 5.6,
+        "hi": 7.55,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 240,
+        "kiText": "median of 25 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 25,
+        "lo": 6.02,
+        "hi": 7.57,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "histamine_h1": {
+        "ki": 1.82,
+        "kiText": "median of 24 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 24,
+        "lo": 6.7,
+        "hi": 9.64,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 1.82,
+        "kiText": "median of 13 human values",
+        "act": "pa",
+        "actFull": "Positive allosteric modulator",
+        "src": "PDSP KiDB (human)",
+        "n": 13,
+        "lo": 7.51,
+        "hi": 8.85,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m3": {
+        "ki": 25.1,
+        "kiText": "median of 7 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 6.96,
+        "hi": 8.15
+      },
+      "net": {
+        "ki": 3160,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.5,
+        "hi": 5.5
+      },
+      "serotonin_5ht1a": {
+        "ki": 141,
+        "kiText": "median of 17 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 17,
+        "lo": 6.59,
+        "hi": 6.98,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 7.08,
+        "kiText": "median of 34 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 34,
+        "lo": 7.09,
+        "hi": 9.26,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 17,
+        "kiText": "median of 20 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 20,
+        "lo": 6.16,
+        "hi": 8.88,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 1620,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.41,
+        "hi": 6
+      }
+    }
+  },
+  {
+    "name": "Cocaine",
+    "g": "stim",
+    "cid": 446220,
+    "b": {
+      "alpha_1": {
+        "ki": 3550,
+        "kiText": "median of 2 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.22,
+        "hi": 5.68,
+        "nc": 1
+      },
+      "alpha_2": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 263,
+        "kiText": "median of 10 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 10,
+        "lo": 6.13,
+        "hi": 7.16,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 2140,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.67,
+        "hi": 5.67,
+        "nc": 1
+      },
+      "mu_opioid": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 1410,
+        "kiText": "median of 7 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 5.35,
+        "hi": 6.66,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 398,
+        "kiText": "median of 6 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 5.96,
+        "hi": 6.92
+      }
+    }
+  },
+  {
+    "name": "Cyproheptadine",
+    "g": "antichol",
+    "cid": 2913,
+    "b": {
+      "alpha_1": {
+        "ki": 44.7,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.35,
+        "hi": 7.35,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "alpha_2": {
+        "ki": 219,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.48,
+        "hi": 6.8,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 4070,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.39,
+        "hi": 5.39
+      },
+      "dopamine_d2": {
+        "ki": 91.2,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.95,
+        "hi": 7.13
+      },
+      "dopamine_d3": {
+        "ki": 7.94,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.1,
+        "hi": 8.1
+      },
+      "histamine_h1": {
+        "ki": 0.501,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 8.64,
+        "hi": 10.22,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 15.1,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.72,
+        "hi": 7.92
+      },
+      "muscarinic_m3": {
+        "ki": 12,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.92,
+        "hi": 7.92
+      },
+      "net": {
+        "ki": 2570,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.59,
+        "hi": 5.59
+      },
+      "serotonin_5ht1a": {
+        "ki": 53.7,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 7,
+        "hi": 7.3
+      },
+      "serotonin_5ht2a": {
+        "ki": 2.88,
+        "kiText": "median of 9 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 7.59,
+        "hi": 9.34
+      },
+      "serotonin_5ht2c": {
+        "ki": 6.31,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.74,
+        "hi": 8.65
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Desipramine",
+    "g": "tca",
+    "cid": 2995,
+    "b": {
+      "alpha_1": {
+        "ki": 22.9,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.64,
+        "hi": 7.64
+      },
+      "alpha_2": {
+        "ki": 1380,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.86,
+        "hi": 5.86
+      },
+      "dat": {
+        "ki": 3160,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.5,
+        "hi": 5.5,
+        "nc": 2
+      },
+      "dopamine_d2": {
+        "ki": 2340,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.46,
+        "hi": 5.81
+      },
+      "histamine_h1": {
+        "ki": 63.1,
+        "kiText": "median of 6 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 6.7,
+        "hi": 7.51,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 110,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.96,
+        "hi": 6.96
+      },
+      "muscarinic_m3": {
+        "ki": 209,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.68,
+        "hi": 6.68
+      },
+      "net": {
+        "ki": 2.09,
+        "kiText": "median of 14 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 14,
+        "lo": 8.07,
+        "hi": 9.2,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 6460,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.19,
+        "hi": 5.19,
+        "nc": 2
+      },
+      "serotonin_5ht2c": {
+        "ki": 741,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.13,
+        "hi": 6.13
+      },
+      "sert": {
+        "ki": 162,
+        "kiText": "median of 5 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 6.75,
+        "hi": 7.75,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Desvenlafaxine",
+    "g": "adatyp",
+    "cid": null,
+    "b": {
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 1380,
+        "kiText": "median of 2 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.47,
+        "hi": 6.25,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 39.8,
+        "kiText": "median of 1 human value",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.4,
+        "hi": 7.4,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Dexmedetomidine",
+    "g": "stim",
+    "cid": 5311068,
+    "b": {
+      "alpha_1": {
+        "ki": 200,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.5,
+        "hi": 7.1,
+        "weak": 1
+      },
+      "alpha_2": {
+        "ki": 6.46,
+        "kiText": "median of 4 human values at Alpha2A",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 7.8,
+        "hi": 8.69,
+        "sub": "Alpha2A",
+        "actSrc": "IUPHAR/BPS"
+      },
+      "net": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      }
+    }
+  },
+  {
+    "name": "Diazepam",
+    "g": "anx",
+    "cid": 3016,
+    "b": {
+      "gaba_a": {
+        "ki": 15.5,
+        "kiText": "median of 14 human values, plus 1 screen with no binding",
+        "act": "pa",
+        "actFull": "Positive allosteric modulator",
+        "src": "PDSP KiDB (human)",
+        "n": 14,
+        "lo": 7.48,
+        "hi": 7.96,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Diphenhydramine",
+    "g": "antichol",
+    "cid": 3100,
+    "b": {
+      "dat": {
+        "ki": 2190,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.66,
+        "hi": 5.66
+      },
+      "histamine_h1": {
+        "ki": 13.5,
+        "kiText": "median of 7 human values, plus 1 screen with no binding",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 7.21,
+        "hi": 8.02,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 100,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7,
+        "hi": 7
+      },
+      "muscarinic_m3": {
+        "ki": 229,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.64,
+        "hi": 6.64
+      },
+      "net": {
+        "ki": 955,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.02,
+        "hi": 6.02
+      },
+      "sert": {
+        "ki": 3800,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.42,
+        "hi": 5.42
+      }
+    }
+  },
+  {
+    "name": "Doxepin",
+    "g": "tca",
+    "cid": 667477,
+    "b": {
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 933,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.62,
+        "hi": 6.44
+      },
+      "histamine_h1": {
+        "ki": 0.24,
+        "kiText": "median of 7 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 9.31,
+        "hi": 10.05,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 38,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.42,
+        "hi": 7.42
+      },
+      "muscarinic_m3": {
+        "ki": 52.5,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.28,
+        "hi": 7.28
+      },
+      "net": {
+        "ki": 29.5,
+        "kiText": "median of 1 human value",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.53,
+        "hi": 7.53,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 275,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.56,
+        "hi": 6.56
+      },
+      "sert": {
+        "ki": 67.6,
+        "kiText": "median of 1 human value",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.17,
+        "hi": 7.17,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Duloxetine",
+    "g": "adatyp",
+    "cid": 60835,
+    "b": {
+      "alpha_1": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "alpha_2": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "dat": {
+        "ki": 324,
+        "kiText": "median of 8 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 6.36,
+        "hi": 6.64
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 2290,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.64,
+        "hi": 5.64
+      },
+      "muscarinic_m1": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "net": {
+        "ki": 12.3,
+        "kiText": "median of 8 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 7.35,
+        "hi": 8.93,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 5010,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.3,
+        "hi": 5.3
+      },
+      "serotonin_5ht2a": {
+        "ki": 501,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.3,
+        "hi": 6.3,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 912,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.04,
+        "hi": 6.04,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 1.74,
+        "kiText": "median of 8 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 8.3,
+        "hi": 10.15,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Epinephrine",
+    "g": "adren",
+    "cid": 5816,
+    "b": {
+      "alpha_1": {
+        "ki": 3470,
+        "kiText": "median of 2 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.32,
+        "hi": 5.6,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "alpha_2": {
+        "ki": 1260,
+        "kiText": "median of 2 human values at Alpha2B",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.2,
+        "hi": 6.59,
+        "sub": "Alpha2B",
+        "actSrc": "IUPHAR/BPS"
+      },
+      "beta_1": {
+        "ki": 3980,
+        "kiText": "median of 1 human value",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.4,
+        "hi": 5.4,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "net": {
+        "ki": 3720,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.43,
+        "hi": 5.43
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Escitalopram",
+    "g": "ssri",
+    "cid": 146570,
+    "b": {
+      "alpha_1": {
+        "ki": 3890,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.41,
+        "hi": 5.41
+      },
+      "alpha_2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 1950,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.71,
+        "hi": 5.71
+      },
+      "muscarinic_m1": {
+        "ki": 1230,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.91,
+        "hi": 5.91
+      },
+      "net": {
+        "ki": 7080,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.11,
+        "hi": 5.19
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 2510,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.6,
+        "hi": 5.6
+      },
+      "sert": {
+        "ki": 1.66,
+        "kiText": "median of 2 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.6,
+        "hi": 8.96,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Fluoxetine",
+    "g": "ssri",
+    "cid": 3386,
+    "b": {
+      "alpha_1": {
+        "ki": 2000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.7,
+        "hi": 5.7
+      },
+      "dat": {
+        "ki": 4270,
+        "kiText": "median of 6 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 5.18,
+        "hi": 5.44
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "histamine_h1": {
+        "ki": 5370,
+        "kiText": "median of 3 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.21,
+        "hi": 5.96,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 851,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.99,
+        "hi": 6.15
+      },
+      "muscarinic_m3": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "net": {
+        "ki": 891,
+        "kiText": "median of 8 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 5.66,
+        "hi": 6.62
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 148,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.61,
+        "hi": 6.85,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 112,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.4,
+        "hi": 7.48,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 3.55,
+        "kiText": "median of 12 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 12,
+        "lo": 7.01,
+        "hi": 9.09,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Fluphenazine",
+    "g": "fga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 6.46,
+        "kiText": "median of 2 human values at Alpha1A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.19,
+        "hi": 8.19,
+        "sub": "Alpha1A"
+      },
+      "alpha_2": {
+        "ki": 28.8,
+        "kiText": "median of 2 human values at Alpha2C",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.54,
+        "hi": 7.54,
+        "sub": "Alpha2C"
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 1700,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.77,
+        "hi": 5.77,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 0.575,
+        "kiText": "median of 16 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 16,
+        "lo": 8.72,
+        "hi": 9.7,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 0.302,
+        "kiText": "median of 9 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 8.49,
+        "hi": 9.96
+      },
+      "histamine_h1": {
+        "ki": 20.9,
+        "kiText": "median of 9 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 7.15,
+        "hi": 8.65,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 1860,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.49,
+        "hi": 5.96
+      },
+      "muscarinic_m3": {
+        "ki": 1450,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.84,
+        "hi": 5.84
+      },
+      "net": {
+        "ki": 3090,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.51,
+        "hi": 5.51
+      },
+      "serotonin_5ht1a": {
+        "ki": 145,
+        "kiText": "median of 5 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 5.55,
+        "hi": 6.84
+      },
+      "serotonin_5ht2a": {
+        "ki": 10,
+        "kiText": "median of 10 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 10,
+        "lo": 7.01,
+        "hi": 8.49,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 891,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.86,
+        "hi": 6.24
+      },
+      "sert": {
+        "ki": 5890,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.23,
+        "hi": 5.23
+      }
+    }
+  },
+  {
+    "name": "Fluvoxamine",
+    "g": "ssri",
+    "cid": null,
+    "b": {
+      "dat": {
+        "ki": 9120,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.04,
+        "hi": 5.04,
+        "nc": 2
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 1410,
+        "kiText": "median of 5 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 5.32,
+        "hi": 5.95
+      },
+      "sert": {
+        "ki": 2.29,
+        "kiText": "median of 5 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 7.85,
+        "hi": 8.8,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Guanfacine",
+    "g": "stim",
+    "cid": 3519,
+    "b": {
+      "alpha_2": {
+        "ki": 69.2,
+        "kiText": "median of 2 human values at Alpha2A",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.03,
+        "hi": 7.3,
+        "sub": "Alpha2A",
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Haloperidol",
+    "g": "fga",
+    "cid": 3559,
+    "b": {
+      "alpha_1": {
+        "ki": 12,
+        "kiText": "median of 2 human values at Alpha1A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.92,
+        "hi": 7.92,
+        "sub": "Alpha1A"
+      },
+      "alpha_2": {
+        "ki": 550,
+        "kiText": "median of 12 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 12,
+        "lo": 5.92,
+        "hi": 6.59,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 2400,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.62,
+        "hi": 5.62,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 1.95,
+        "kiText": "median of 62 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 62,
+        "lo": 5.19,
+        "hi": 9.92,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 4.17,
+        "kiText": "median of 30 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 30,
+        "lo": 7.64,
+        "hi": 9.7,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "histamine_h1": {
+        "ki": 813,
+        "kiText": "median of 20 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 20,
+        "lo": 5.38,
+        "hi": 6.67,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 1580,
+        "kiText": "median of 7 human values, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 5.26,
+        "hi": 5.8,
+        "nc": 2
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "net": {
+        "ki": 3390,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.26,
+        "hi": 5.68
+      },
+      "serotonin_5ht1a": {
+        "ki": 2340,
+        "kiText": "median of 18 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 18,
+        "lo": 5.29,
+        "hi": 5.92,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 89.1,
+        "kiText": "median of 27 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 27,
+        "lo": 6.36,
+        "hi": 7.6,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 4680,
+        "kiText": "median of 11 human values, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 5.26,
+        "hi": 5.51,
+        "nc": 2
+      },
+      "sert": {
+        "ki": 1820,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 5.49,
+        "hi": 6
+      }
+    }
+  },
+  {
+    "name": "Histamine",
+    "g": "antichol",
+    "cid": 774,
+    "b": {
+      "histamine_h1": {
+        "ki": 1580,
+        "kiText": "median of 8 human values, plus 7 screens with no binding",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 5.15,
+        "hi": 7.8,
+        "nc": 7,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Hydroxyzine",
+    "g": "anx",
+    "cid": 3658,
+    "b": {
+      "histamine_h1": {
+        "ki": 2,
+        "kiText": "median of 3 human values, plus 1 screen with no binding",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 8.7,
+        "hi": 9,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Iloperidone",
+    "g": "sga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 1.41,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.65,
+        "hi": 8.92,
+        "weak": 1
+      },
+      "alpha_2": {
+        "ki": 16.2,
+        "kiText": "median of 3 human values at Alpha2C",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.79,
+        "hi": 8.25,
+        "sub": "Alpha2C"
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dat": {
+        "ki": 2950,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.53,
+        "hi": 5.53,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 9.12,
+        "kiText": "median of 6 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 6.43,
+        "hi": 9.46,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 14.1,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.08,
+        "hi": 8.15
+      },
+      "histamine_h1": {
+        "ki": 151,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.73,
+        "hi": 7.91
+      },
+      "mu_opioid": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 4900,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.31,
+        "hi": 5.31
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 891,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.83,
+        "hi": 6.27
+      },
+      "serotonin_5ht1a": {
+        "ki": 55,
+        "kiText": "median of 4 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 7.03,
+        "hi": 7.57,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 0.2,
+        "kiText": "median of 5 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 8.25,
+        "hi": 9.96
+      },
+      "serotonin_5ht2c": {
+        "ki": 44.7,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 6.6,
+        "hi": 7.85
+      },
+      "sert": {
+        "ki": 447,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.35,
+        "hi": 6.35
+      }
+    }
+  },
+  {
+    "name": "Imipramine",
+    "g": "tca",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 32.4,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.49,
+        "hi": 7.49
+      },
+      "dat": {
+        "ki": 8510,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.07,
+        "hi": 5.07,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 724,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.7,
+        "hi": 6.21
+      },
+      "dopamine_d3": {
+        "ki": 389,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.41,
+        "hi": 6.41
+      },
+      "histamine_h1": {
+        "ki": 13.2,
+        "kiText": "median of 6 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 7.43,
+        "hi": 8.12,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 41.7,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.38,
+        "hi": 7.38
+      },
+      "muscarinic_m3": {
+        "ki": 60.3,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.22,
+        "hi": 7.22
+      },
+      "net": {
+        "ki": 97.7,
+        "kiText": "median of 5 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 6.85,
+        "hi": 7.7,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 5750,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.24,
+        "hi": 5.24,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 120,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.92,
+        "hi": 6.92
+      },
+      "sert": {
+        "ki": 1.86,
+        "kiText": "median of 6 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 7.7,
+        "hi": 9.82,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Ketamine",
+    "g": "psy",
+    "cid": 3821,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "alpha_2": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "gaba_a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "mu_opioid": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "LSD",
+    "g": "psy",
+    "cid": 5761,
+    "b": {
+      "alpha_1": {
+        "ki": 676,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.17,
+        "hi": 6.17
+      },
+      "alpha_2": {
+        "ki": 12,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.92,
+        "hi": 7.92
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dopamine_d2": {
+        "ki": 30.9,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.41,
+        "hi": 7.6
+      },
+      "dopamine_d3": {
+        "ki": 51.3,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.02,
+        "hi": 7.57
+      },
+      "histamine_h1": {
+        "ki": 1100,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.96,
+        "hi": 5.96
+      },
+      "net": {
+        "ki": 5620,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.25,
+        "hi": 5.25,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 2.04,
+        "kiText": "median of 8 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 8.14,
+        "hi": 9.19,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 1.55,
+        "kiText": "median of 10 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 10,
+        "lo": 8.28,
+        "hi": 9.32,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 6.46,
+        "kiText": "median of 4 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 7.82,
+        "hi": 8.96,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      }
+    }
+  },
+  {
+    "name": "Loxapine",
+    "g": "fga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 30.9,
+        "kiText": "median of 2 human values at Alpha1A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.51,
+        "hi": 7.51,
+        "sub": "Alpha1A"
+      },
+      "alpha_2": {
+        "ki": 107,
+        "kiText": "median of 6 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 6.82,
+        "hi": 7.1,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 9550,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.02,
+        "hi": 5.02,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 20,
+        "kiText": "median of 18 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 18,
+        "lo": 7.15,
+        "hi": 8.28,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 21.4,
+        "kiText": "median of 6 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 7.48,
+        "hi": 7.74,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "histamine_h1": {
+        "ki": 5.01,
+        "kiText": "median of 7 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 5.4,
+        "hi": 8.65,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 112,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.76,
+        "hi": 7.19
+      },
+      "muscarinic_m3": {
+        "ki": 123,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.41,
+        "hi": 6.91
+      },
+      "net": {
+        "ki": 5750,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.24,
+        "hi": 5.24
+      },
+      "serotonin_5ht1a": {
+        "ki": 2570,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 5.54,
+        "hi": 5.61
+      },
+      "serotonin_5ht2a": {
+        "ki": 2.51,
+        "kiText": "median of 9 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 7.87,
+        "hi": 8.77,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 12.6,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.77,
+        "hi": 8.02,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Lurasidone",
+    "g": "sga",
+    "cid": null,
+    "b": {
+      "alpha_2": {
+        "ki": 20.9,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.39,
+        "hi": 7.97,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d2": {
+        "ki": 1.7,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.77,
+        "hi": 8.77,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 6.76,
+        "kiText": "median of 1 human value",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.17,
+        "hi": 8.17,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 2.04,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.69,
+        "hi": 8.69,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "MDMA",
+    "g": "psy",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 6030,
+        "kiText": "median of 1 human value, plus 4 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.22,
+        "hi": 5.22,
+        "nc": 4
+      },
+      "alpha_2": {
+        "ki": 1780,
+        "kiText": "median of 6 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 5.6,
+        "hi": 5.95,
+        "nc": 1,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 6460,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.19,
+        "hi": 5.19,
+        "nc": 2
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "histamine_h1": {
+        "ki": 2140,
+        "kiText": "median of 2 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.67,
+        "hi": 5.67,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "muscarinic_m3": {
+        "ki": 1860,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.73,
+        "hi": 5.73
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "serotonin_5ht2a": {
+        "ki": 7760,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.11,
+        "hi": 5.11,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 1.23,
+        "kiText": "median of 2 human values, plus 4 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.69,
+        "hi": 9.14,
+        "nc": 4
+      }
+    }
+  },
+  {
+    "name": "Melatonin",
+    "g": "anx",
+    "cid": null,
+    "b": {
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      }
+    }
+  },
+  {
+    "name": "Memantine",
+    "g": "psy",
+    "cid": 4054,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "alpha_2": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "gaba_a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "mu_opioid": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Mescaline",
+    "g": "psy",
+    "cid": 4076,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "alpha_2": {
+        "ki": 1410,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.85,
+        "hi": 5.85
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 4570,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.34,
+        "hi": 5.34
+      },
+      "serotonin_5ht2a": {
+        "ki": 6310,
+        "kiText": "median of 1 human value",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.2,
+        "hi": 5.2,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Methadone",
+    "g": "opioid",
+    "cid": 4095,
+    "b": {
+      "mu_opioid": {
+        "ki": 2,
+        "kiText": "median of 2 human values",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.25,
+        "hi": 9.14,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Methamphetamine",
+    "g": "stim",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 6030,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.22,
+        "hi": 5.22
+      },
+      "alpha_2": {
+        "ki": 5010,
+        "kiText": "median of 2 human values at Alpha2A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.21,
+        "hi": 5.38,
+        "sub": "Alpha2A"
+      },
+      "dat": {
+        "ki": 2290,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.55,
+        "hi": 5.73
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 955,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.37,
+        "hi": 6.18
+      },
+      "serotonin_5ht1a": {
+        "ki": 8130,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.09,
+        "hi": 5.09,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      }
+    }
+  },
+  {
+    "name": "Methylphenidate",
+    "g": "stim",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "alpha_2": {
+        "ki": 2450,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.25,
+        "hi": 6.07,
+        "weak": 1
+      },
+      "dat": {
+        "ki": 41.7,
+        "kiText": "median of 7 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 6.96,
+        "hi": 7.68,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 339,
+        "kiText": "median of 3 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.45,
+        "hi": 6.63,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      }
+    }
+  },
+  {
+    "name": "Mirtazapine",
+    "g": "adatyp",
+    "cid": 4205,
+    "b": {
+      "alpha_1": {
+        "ki": 1820,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.74,
+        "hi": 5.74
+      },
+      "alpha_2": {
+        "ki": 20,
+        "kiText": "median of 5 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 7.06,
+        "hi": 7.74,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 1450,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.84,
+        "hi": 5.84,
+        "nc": 1
+      },
+      "dopamine_d3": {
+        "ki": 5750,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.24,
+        "hi": 5.24
+      },
+      "histamine_h1": {
+        "ki": 1.32,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 8.8,
+        "hi": 9.3
+      },
+      "serotonin_5ht1a": {
+        "ki": 245,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.48,
+        "hi": 7.74
+      },
+      "serotonin_5ht2a": {
+        "ki": 11.7,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.15,
+        "hi": 8.7,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 39.8,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.4,
+        "hi": 7.4,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Morphine",
+    "g": "opioid",
+    "cid": 5288826,
+    "b": {
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "mu_opioid": {
+        "ki": 2.19,
+        "kiText": "median of 9 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 7.13,
+        "hi": 9.09,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Naloxone",
+    "g": "opioid",
+    "cid": 5284596,
+    "b": {
+      "mu_opioid": {
+        "ki": 1.41,
+        "kiText": "median of 13 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 13,
+        "lo": 6,
+        "hi": 9.18,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Naltrexone",
+    "g": "opioid",
+    "cid": null,
+    "b": {
+      "mu_opioid": {
+        "ki": 0.302,
+        "kiText": "median of 9 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 8.62,
+        "hi": 9.96,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Nefazodone",
+    "g": "adatyp",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 47.9,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.32,
+        "hi": 7.32
+      },
+      "dat": {
+        "ki": 363,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.44,
+        "hi": 6.44
+      },
+      "dopamine_d2": {
+        "ki": 912,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.04,
+        "hi": 6.04
+      },
+      "histamine_h1": {
+        "ki": 372,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.43,
+        "hi": 6.43,
+        "nc": 1
+      },
+      "net": {
+        "ki": 617,
+        "kiText": "median of 3 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.15,
+        "hi": 6.44,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 79.4,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.1,
+        "hi": 7.1
+      },
+      "serotonin_5ht2c": {
+        "ki": 72.4,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.14,
+        "hi": 7.14
+      },
+      "sert": {
+        "ki": 457,
+        "kiText": "median of 3 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.26,
+        "hi": 6.7,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Norepinephrine",
+    "g": "adren",
+    "cid": 439260,
+    "b": {
+      "alpha_1": {
+        "ki": 7590,
+        "kiText": "median of 3 human values, plus 2 screens with no binding",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.06,
+        "hi": 5.12,
+        "nc": 2,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "alpha_2": {
+        "ki": 1000,
+        "kiText": "median of 7 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 5.56,
+        "hi": 6.48,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "beta_1": {
+        "ki": 3550,
+        "kiText": "median of 1 human value",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.45,
+        "hi": 5.45,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dat": {
+        "ki": 9120,
+        "kiText": "median of 2 human values, plus 3 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.01,
+        "hi": 5.07,
+        "nc": 3
+      },
+      "dopamine_d2": {
+        "ki": 3160,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.5,
+        "hi": 5.5,
+        "nc": 1
+      },
+      "net": {
+        "ki": 2190,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.66,
+        "hi": 5.66
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Nortriptyline",
+    "g": "tca",
+    "cid": 4543,
+    "b": {
+      "histamine_h1": {
+        "ki": 3.02,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.52,
+        "hi": 8.52
+      }
+    }
+  },
+  {
+    "name": "Olanzapine",
+    "g": "sga",
+    "cid": 135398745,
+    "b": {
+      "alpha_1": {
+        "ki": 112,
+        "kiText": "median of 2 human values at Alpha1A",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.94,
+        "hi": 6.96,
+        "sub": "Alpha1A",
+        "actSrc": "IUPHAR/BPS"
+      },
+      "alpha_2": {
+        "ki": 182,
+        "kiText": "median of 13 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 13,
+        "lo": 6.33,
+        "hi": 7.54,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 5010,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.3,
+        "hi": 5.3,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dopamine_d2": {
+        "ki": 20.9,
+        "kiText": "median of 33 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 33,
+        "lo": 6.1,
+        "hi": 8.52,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 44.7,
+        "kiText": "median of 13 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 13,
+        "lo": 7.04,
+        "hi": 8.11
+      },
+      "histamine_h1": {
+        "ki": 2.34,
+        "kiText": "median of 12 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 12,
+        "lo": 8.31,
+        "hi": 10.06,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 4.68,
+        "kiText": "median of 12 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 12,
+        "lo": 7.14,
+        "hi": 8.7
+      },
+      "muscarinic_m3": {
+        "ki": 72.4,
+        "kiText": "median of 8 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 6.88,
+        "hi": 7.89
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 2040,
+        "kiText": "median of 12 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 12,
+        "lo": 5.46,
+        "hi": 6.21,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 3.31,
+        "kiText": "median of 25 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 25,
+        "lo": 7.62,
+        "hi": 8.88,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 10.7,
+        "kiText": "median of 14 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 14,
+        "lo": 7.15,
+        "hi": 8.39,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 1000,
+        "kiText": "median of 3 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.43,
+        "hi": 6,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Paliperidone",
+    "g": "sga",
+    "cid": null,
+    "b": {
+      "alpha_2": {
+        "ki": 224,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.65,
+        "hi": 6.65
+      },
+      "serotonin_5ht1a": {
+        "ki": 407,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.39,
+        "hi": 6.39
+      },
+      "serotonin_5ht2a": {
+        "ki": 0.912,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 9.04,
+        "hi": 9.04
+      },
+      "serotonin_5ht2c": {
+        "ki": 38,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.42,
+        "hi": 7.42
+      }
+    }
+  },
+  {
+    "name": "Paroxetine",
+    "g": "ssri",
+    "cid": 43815,
+    "b": {
+      "alpha_1": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "dat": {
+        "ki": 490,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.02,
+        "hi": 6.57
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "muscarinic_m1": {
+        "ki": 148,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.52,
+        "hi": 7.14
+      },
+      "muscarinic_m3": {
+        "ki": 79.4,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.1,
+        "hi": 7.1
+      },
+      "net": {
+        "ki": 85.1,
+        "kiText": "median of 5 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 6.48,
+        "hi": 7.4
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "sert": {
+        "ki": 0.339,
+        "kiText": "median of 11 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 9.08,
+        "hi": 10.22,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Perphenazine",
+    "g": "fga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 10,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8,
+        "hi": 8
+      },
+      "alpha_2": {
+        "ki": 105,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.09,
+        "hi": 7.07,
+        "weak": 1
+      },
+      "dat": {
+        "ki": 1290,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.89,
+        "hi": 5.89
+      },
+      "dopamine_d2": {
+        "ki": 0.912,
+        "kiText": "median of 9 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 8.85,
+        "hi": 9.8,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 0.229,
+        "kiText": "median of 5 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 8.96,
+        "hi": 9.89
+      },
+      "histamine_h1": {
+        "ki": 7.94,
+        "kiText": "median of 5 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 8.08,
+        "hi": 8.59,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 1700,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.77,
+        "hi": 5.77
+      },
+      "muscarinic_m3": {
+        "ki": 1860,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.73,
+        "hi": 5.73
+      },
+      "serotonin_5ht1a": {
+        "ki": 912,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.7,
+        "hi": 6.38
+      },
+      "serotonin_5ht2a": {
+        "ki": 5.62,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 8.25,
+        "hi": 8.25,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 132,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.88,
+        "hi": 6.88,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Phenylephrine",
+    "g": "adren",
+    "cid": 6041,
+    "b": {
+      "alpha_1": {
+        "ki": 6.92,
+        "kiText": "median of 2 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.25,
+        "hi": 9.07,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Pilocarpine",
+    "g": "antichol",
+    "cid": 5910,
+    "b": {
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Pramipexole",
+    "g": "da",
+    "cid": 119570,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "5 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 5
+      },
+      "alpha_2": {
+        "ki": 75.9,
+        "kiText": "median of 5 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 5.77,
+        "hi": 7.28,
+        "nc": 1,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 794,
+        "kiText": "median of 5 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 5.77,
+        "hi": 8.51,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 4.07,
+        "kiText": "median of 3 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.98,
+        "hi": 9.64,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "mu_opioid": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 2140,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.19,
+        "hi": 6.16
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "sert": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Prazosin",
+    "g": "adren",
+    "cid": 4893,
+    "b": {
+      "alpha_1": {
+        "ki": 0.209,
+        "kiText": "median of 7 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 9.16,
+        "hi": 10.22,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "alpha_2": {
+        "ki": 57.5,
+        "kiText": "median of 13 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 13,
+        "lo": 5.65,
+        "hi": 7.97,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 3550,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.15,
+        "hi": 10.15
+      }
+    }
+  },
+  {
+    "name": "Promethazine",
+    "g": "antichol",
+    "cid": 4927,
+    "b": {
+      "histamine_h1": {
+        "ki": 0.977,
+        "kiText": "median of 3 human values, plus 1 screen with no binding",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 8.59,
+        "hi": 9.62,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Propranolol",
+    "g": "adren",
+    "cid": 4946,
+    "b": {
+      "alpha_2": {
+        "ki": 1000,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6,
+        "hi": 6,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 0.234,
+        "kiText": "median of 2 human values at Beta1",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.57,
+        "hi": 10.7,
+        "sub": "Beta1"
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 302,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.48,
+        "hi": 6.57
+      },
+      "serotonin_5ht2a": {
+        "ki": 4170,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 5.05,
+        "hi": 5.82
+      }
+    }
+  },
+  {
+    "name": "Psilocin",
+    "g": "psy",
+    "cid": 4980,
+    "b": {
+      "serotonin_5ht1a": {
+        "ki": 49,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.31,
+        "hi": 7.31
+      }
+    }
+  },
+  {
+    "name": "Quetiapine",
+    "g": "sga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 21.9,
+        "kiText": "median of 3 human values at Alpha1A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.58,
+        "hi": 7.66,
+        "sub": "Alpha1A"
+      },
+      "alpha_2": {
+        "ki": 28.8,
+        "kiText": "median of 5 human values at Alpha2C",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 6.46,
+        "hi": 7.54,
+        "sub": "Alpha2C"
+      },
+      "beta_1": {
+        "ki": 5010,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.3,
+        "hi": 5.3,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dopamine_d2": {
+        "ki": 501,
+        "kiText": "median of 25 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 25,
+        "lo": 5.3,
+        "hi": 7.8,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 339,
+        "kiText": "median of 12 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 12,
+        "lo": 5.66,
+        "hi": 8.04
+      },
+      "histamine_h1": {
+        "ki": 8.71,
+        "kiText": "median of 11 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 7.72,
+        "hi": 8.66,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 120,
+        "kiText": "median of 7 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 6.07,
+        "hi": 7
+      },
+      "muscarinic_m3": {
+        "ki": 1320,
+        "kiText": "median of 4 human values, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 5.71,
+        "hi": 6.15,
+        "nc": 2
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 309,
+        "kiText": "median of 11 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 6.36,
+        "hi": 6.64,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 200,
+        "kiText": "median of 17 human values",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 17,
+        "lo": 5.6,
+        "hi": 7.51,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 1410,
+        "kiText": "median of 9 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 5.44,
+        "hi": 6.21
+      },
+      "sert": {
+        "ki": 1000,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6,
+        "nc": 2
+      }
+    }
+  },
+  {
+    "name": "Reboxetine",
+    "g": "adatyp",
+    "cid": 65856,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "alpha_2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 11,
+        "kiText": "median of 3 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.8,
+        "hi": 8.3,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 457,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.34,
+        "hi": 6.34
+      },
+      "sert": {
+        "ki": 437,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.85,
+        "hi": 6.97
+      }
+    }
+  },
+  {
+    "name": "Risperidone",
+    "g": "sga",
+    "cid": 5073,
+    "b": {
+      "alpha_1": {
+        "ki": 5.01,
+        "kiText": "median of 5 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 8.05,
+        "hi": 8.86,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "alpha_2": {
+        "ki": 5.37,
+        "kiText": "median of 6 human values at Alpha2C",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 7.96,
+        "hi": 8.89,
+        "sub": "Alpha2C",
+        "actSrc": "IUPHAR/BPS"
+      },
+      "beta_1": {
+        "ki": 5010,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.3,
+        "hi": 5.3,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "dopamine_d2": {
+        "ki": 2.82,
+        "kiText": "median of 34 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 34,
+        "lo": 7.57,
+        "hi": 9.52,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 7.94,
+        "kiText": "median of 16 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 16,
+        "lo": 7.8,
+        "hi": 8.8,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "histamine_h1": {
+        "ki": 19.1,
+        "kiText": "median of 13 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 13,
+        "lo": 7.27,
+        "hi": 8.46,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 2820,
+        "kiText": "median of 4 human values, plus 4 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 5.18,
+        "hi": 5.55,
+        "nc": 4
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "4 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 4
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 417,
+        "kiText": "median of 15 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 15,
+        "lo": 5.93,
+        "hi": 6.8,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 0.288,
+        "kiText": "median of 25 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 25,
+        "lo": 8.15,
+        "hi": 9.85,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 24,
+        "kiText": "median of 13 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 13,
+        "lo": 7.19,
+        "hi": 8,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 1000,
+        "kiText": "median of 3 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.85,
+        "hi": 6,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Ropinirole",
+    "g": "da",
+    "cid": 5095,
+    "b": {
+      "alpha_1": {
+        "ki": 10000,
+        "kiText": "6 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 6
+      },
+      "alpha_2": {
+        "ki": 1200,
+        "kiText": "median of 6 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 5.73,
+        "hi": 6.12,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 794,
+        "kiText": "median of 4 human values",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 6.03,
+        "hi": 6.17,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 37.2,
+        "kiText": "median of 2 human values",
+        "act": "ag",
+        "actFull": "Agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.43,
+        "hi": 7.43,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 288,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.54,
+        "hi": 6.54
+      },
+      "serotonin_5ht2a": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "serotonin_5ht2c": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      }
+    }
+  },
+  {
+    "name": "Scopolamine",
+    "g": "antichol",
+    "cid": 5184,
+    "b": {
+      "muscarinic_m1": {
+        "ki": 1.1,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.96,
+        "hi": 8.96,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m3": {
+        "ki": 0.437,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 9.36,
+        "hi": 9.36,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Sertraline",
+    "g": "ssri",
+    "cid": 68617,
+    "b": {
+      "alpha_1": {
+        "ki": 282,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.55,
+        "hi": 6.55
+      },
+      "dat": {
+        "ki": 25.7,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 6.5,
+        "hi": 7.66
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 5010,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.3,
+        "hi": 5.3,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 741,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.89,
+        "hi": 6.37
+      },
+      "muscarinic_m3": {
+        "ki": 1290,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.89,
+        "hi": 5.89
+      },
+      "net": {
+        "ki": 759,
+        "kiText": "median of 6 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 5.77,
+        "hi": 6.38
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "sert": {
+        "ki": 0.513,
+        "kiText": "median of 6 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 8.48,
+        "hi": 9.82,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Tamsulosin",
+    "g": "adren",
+    "cid": 129211,
+    "b": {
+      "alpha_1": {
+        "ki": 0.191,
+        "kiText": "median of 11 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 8.7,
+        "hi": 10.54,
+        "weak": 1,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Terazosin",
+    "g": "adren",
+    "cid": 5401,
+    "b": {
+      "alpha_1": {
+        "ki": 1.41,
+        "kiText": "median of 2 human values at Alpha1B",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.76,
+        "hi": 8.94,
+        "sub": "Alpha1B",
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Thioridazine",
+    "g": "fga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 2.57,
+        "kiText": "median of 2 human values at Alpha1A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 8.3,
+        "hi": 8.89,
+        "sub": "Alpha1A"
+      },
+      "alpha_2": {
+        "ki": 135,
+        "kiText": "median of 6 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 6.47,
+        "hi": 7.13,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 1550,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.77,
+        "hi": 5.85
+      },
+      "dopamine_d2": {
+        "ki": 10.5,
+        "kiText": "median of 18 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 18,
+        "lo": 7.57,
+        "hi": 9.4
+      },
+      "dopamine_d3": {
+        "ki": 2.19,
+        "kiText": "median of 6 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 8.13,
+        "hi": 8.82
+      },
+      "histamine_h1": {
+        "ki": 16.2,
+        "kiText": "median of 7 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 7.66,
+        "hi": 8.61,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 4.17,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 7.48,
+        "hi": 8.57
+      },
+      "muscarinic_m3": {
+        "ki": 25.1,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 7.37,
+        "hi": 7.82
+      },
+      "net": {
+        "ki": 851,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.07,
+        "hi": 6.07
+      },
+      "serotonin_5ht1a": {
+        "ki": 182,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.69,
+        "hi": 6.97,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 12.9,
+        "kiText": "median of 9 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 7.22,
+        "hi": 8.96,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 52.5,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.22,
+        "hi": 7.34,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 1260,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.9,
+        "hi": 5.9
+      }
+    }
+  },
+  {
+    "name": "Thiothixene",
+    "g": "fga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 11.5,
+        "kiText": "median of 2 human values at Alpha1A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.92,
+        "hi": 7.96,
+        "sub": "Alpha1A"
+      },
+      "alpha_2": {
+        "ki": 52.5,
+        "kiText": "median of 6 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 6,
+        "lo": 7.1,
+        "hi": 7.3,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 0.355,
+        "kiText": "median of 4 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 8.85,
+        "hi": 10.52
+      },
+      "dopamine_d3": {
+        "ki": 0.389,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 9.3,
+        "hi": 9.52
+      },
+      "histamine_h1": {
+        "ki": 4.37,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.92,
+        "hi": 8.4,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "net": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "serotonin_5ht1a": {
+        "ki": 407,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.39,
+        "hi": 6.39
+      },
+      "serotonin_5ht2a": {
+        "ki": 50.1,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.3,
+        "hi": 7.3,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 1350,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.85,
+        "hi": 5.88
+      },
+      "sert": {
+        "ki": 3890,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.41,
+        "hi": 5.41
+      }
+    }
+  },
+  {
+    "name": "Trazodone",
+    "g": "adatyp",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 151,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.82,
+        "hi": 6.82
+      },
+      "alpha_2": {
+        "ki": 339,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.14,
+        "hi": 6.81,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 7410,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.13,
+        "hi": 5.13,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 3800,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.38,
+        "hi": 5.46
+      },
+      "histamine_h1": {
+        "ki": 347,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 5.96,
+        "hi": 6.66
+      },
+      "mu_opioid": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "muscarinic_m1": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "2 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 2
+      },
+      "net": {
+        "ki": 8510,
+        "kiText": "median of 1 human value, plus 3 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.07,
+        "hi": 5.07,
+        "nc": 3
+      },
+      "serotonin_5ht1a": {
+        "ki": 107,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.93,
+        "hi": 7.02
+      },
+      "serotonin_5ht2a": {
+        "ki": 34.7,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.35,
+        "hi": 7.57,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 224,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.65,
+        "hi": 6.65,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 251,
+        "kiText": "median of 3 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.16,
+        "hi": 6.8,
+        "nc": 1
+      }
+    }
+  },
+  {
+    "name": "Triazolam",
+    "g": "anx",
+    "cid": null,
+    "b": {
+      "gaba_a": {
+        "ki": 1.48,
+        "kiText": "median of 4 human values, plus 1 screen with no binding",
+        "act": "pa",
+        "actFull": "Positive allosteric modulator",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 8.52,
+        "hi": 9.17,
+        "nc": 1,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Trifluoperazine",
+    "g": "fga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 24,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.62,
+        "hi": 7.62
+      },
+      "alpha_2": {
+        "ki": 389,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.18,
+        "hi": 6.79,
+        "weak": 1
+      },
+      "dopamine_d2": {
+        "ki": 1.29,
+        "kiText": "median of 5 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 8.58,
+        "hi": 9.02,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "histamine_h1": {
+        "ki": 63.1,
+        "kiText": "median of 3 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 7.2,
+        "hi": 7.21,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m3": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "serotonin_5ht1a": {
+        "ki": 955,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.02,
+        "hi": 6.02
+      },
+      "serotonin_5ht2a": {
+        "ki": 15.8,
+        "kiText": "median of 4 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 6.87,
+        "hi": 7.89,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 380,
+        "kiText": "median of 2 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 6.42,
+        "hi": 6.42,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Venlafaxine",
+    "g": "adatyp",
+    "cid": 5656,
+    "b": {
+      "alpha_1": {
+        "ki": 1000,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6,
+        "nc": 1
+      },
+      "alpha_2": {
+        "ki": 1000,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 7590,
+        "kiText": "median of 5 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 5.03,
+        "hi": 5.51,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "dopamine_d3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "histamine_h1": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "muscarinic_m1": {
+        "ki": 1000,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 10000,
+        "kiText": "1 human screen, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 1
+      },
+      "net": {
+        "ki": 1910,
+        "kiText": "median of 9 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 9,
+        "lo": 5.2,
+        "hi": 6.41,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 10000,
+        "kiText": "3 human screens, none showed binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 0,
+        "nc": 3
+      },
+      "serotonin_5ht2a": {
+        "ki": 2240,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.65,
+        "hi": 5.65,
+        "nc": 1
+      },
+      "serotonin_5ht2c": {
+        "ki": 2000,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.7,
+        "hi": 5.7,
+        "nc": 2
+      },
+      "sert": {
+        "ki": 79.4,
+        "kiText": "median of 8 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 6.84,
+        "hi": 8.12,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Vortioxetine",
+    "g": "adatyp",
+    "cid": null,
+    "b": {
+      "serotonin_5ht1a": {
+        "ki": 9.55,
+        "kiText": "median of 1 human value",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 8.02,
+        "hi": 8.02,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Xanomeline",
+    "g": "sga",
+    "cid": 4787456,
+    "b": {
+      "alpha_1": {
+        "ki": 1580,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.8,
+        "hi": 5.8
+      },
+      "dopamine_d2": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      },
+      "dopamine_d3": {
+        "ki": 398,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.4,
+        "hi": 6.4
+      },
+      "muscarinic_m1": {
+        "ki": 79.4,
+        "kiText": "median of 1 human value",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.1,
+        "hi": 7.1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m3": {
+        "ki": 39.8,
+        "kiText": "median of 1 human value",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.4,
+        "hi": 7.4,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 63.1,
+        "kiText": "median of 1 human value",
+        "act": "ag",
+        "actFull": "Full agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.2,
+        "hi": 7.2,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 126,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6.9,
+        "hi": 6.9,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 39.8,
+        "kiText": "median of 1 human value",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.4,
+        "hi": 7.4,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Yohimbine",
+    "g": "adren",
+    "cid": 8969,
+    "b": {
+      "alpha_1": {
+        "ki": 776,
+        "kiText": "median of 7 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 5.5,
+        "hi": 6.8,
+        "weak": 1
+      },
+      "alpha_2": {
+        "ki": 0.275,
+        "kiText": "median of 4 human values at Alpha2C",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 8.52,
+        "hi": 9.74,
+        "sub": "Alpha2C",
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d2": {
+        "ki": 398,
+        "kiText": "median of 3 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6.4,
+        "hi": 6.55
+      },
+      "dopamine_d3": {
+        "ki": 3160,
+        "kiText": "median of 2 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 5.4,
+        "hi": 5.6
+      },
+      "serotonin_5ht1a": {
+        "ki": 468,
+        "kiText": "median of 4 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 4,
+        "lo": 5.9,
+        "hi": 7.3,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 1000,
+        "kiText": "median of 5 human values, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 5.38,
+        "hi": 6.02,
+        "nc": 2
+      },
+      "serotonin_5ht2c": {
+        "ki": 1000,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6,
+        "nc": 2
+      },
+      "sert": {
+        "ki": 1000,
+        "kiText": "median of 1 human value",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 6,
+        "hi": 6
+      }
+    }
+  },
+  {
+    "name": "Ziprasidone",
+    "g": "sga",
+    "cid": null,
+    "b": {
+      "alpha_1": {
+        "ki": 18.2,
+        "kiText": "median of 2 human values at Alpha1A",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 2,
+        "lo": 7.74,
+        "hi": 7.74,
+        "sub": "Alpha1A"
+      },
+      "alpha_2": {
+        "ki": 77.6,
+        "kiText": "median of 11 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 6.52,
+        "hi": 7.32,
+        "weak": 1
+      },
+      "beta_1": {
+        "ki": 2570,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.59,
+        "hi": 5.59,
+        "nc": 1
+      },
+      "dat": {
+        "ki": 75.9,
+        "kiText": "median of 1 human value, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.12,
+        "hi": 7.12,
+        "nc": 1
+      },
+      "dopamine_d2": {
+        "ki": 4.07,
+        "kiText": "median of 16 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 16,
+        "lo": 8.01,
+        "hi": 9.1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "dopamine_d3": {
+        "ki": 7.24,
+        "kiText": "median of 8 human values",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 8,
+        "hi": 8.96
+      },
+      "histamine_h1": {
+        "ki": 44.7,
+        "kiText": "median of 8 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 6.89,
+        "hi": 8.34,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "muscarinic_m1": {
+        "ki": 5130,
+        "kiText": "median of 5 human values, plus 1 screen with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 5,
+        "lo": 5.29,
+        "hi": 6.52,
+        "nc": 1
+      },
+      "muscarinic_m3": {
+        "ki": 1290,
+        "kiText": "median of 1 human value, plus 2 screens with no binding",
+        "act": null,
+        "actFull": null,
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 5.89,
+        "hi": 5.89,
+        "nc": 2
+      },
+      "net": {
+        "ki": 43.7,
+        "kiText": "median of 1 human value",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 1,
+        "lo": 7.36,
+        "hi": 7.36,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht1a": {
+        "ki": 2.51,
+        "kiText": "median of 11 human values",
+        "act": "pa",
+        "actFull": "Partial agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 11,
+        "lo": 7.12,
+        "hi": 8.82,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2a": {
+        "ki": 0.389,
+        "kiText": "median of 12 human values",
+        "act": "an",
+        "actFull": "Antagonist",
+        "src": "PDSP KiDB (human)",
+        "n": 12,
+        "lo": 8.77,
+        "hi": 10.1,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "serotonin_5ht2c": {
+        "ki": 0.891,
+        "kiText": "median of 7 human values",
+        "act": "an",
+        "actFull": "Inverse agonist",
+        "src": "PDSP KiDB (human)",
+        "n": 7,
+        "lo": 7.89,
+        "hi": 9.14,
+        "actSrc": "IUPHAR/BPS"
+      },
+      "sert": {
+        "ki": 112,
+        "kiText": "median of 3 human values",
+        "act": "ri",
+        "actFull": "Inhibition",
+        "src": "PDSP KiDB (human)",
+        "n": 3,
+        "lo": 6,
+        "hi": 7.28,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  },
+  {
+    "name": "Zolpidem",
+    "g": "anx",
+    "cid": 5732,
+    "b": {
+      "gaba_a": {
+        "ki": 135,
+        "kiText": "median of 8 human values, plus 3 screens with no binding",
+        "act": "pa",
+        "actFull": "Positive allosteric modulator",
+        "src": "PDSP KiDB (human)",
+        "n": 8,
+        "lo": 5.67,
+        "hi": 7.68,
+        "nc": 3,
+        "actSrc": "IUPHAR/BPS"
+      }
+    }
+  }
+]

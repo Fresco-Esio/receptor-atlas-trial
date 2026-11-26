@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script>
+/* Published snapshot: read-only API served as bundled static JSON. */
+(function () {
+  var MAP = {
+    '/api/atlas/cabinet': 'data/cabinet.json',
+    '/api/atlas/cabinet/binding': 'data/cabinet-binding.json',
+    '/api/atlas/ledger': 'data/ledger.json',
+    '/api/atlas/ledger/clinical': 'data/ledger-clinical.json',
+    '/api/atlas/archive/narrative': 'data/archive-narrative.json'
+  };
+  var real = window.fetch.bind(window);
+  window.fetch = function (input, init) {
+    var url = typeof input === 'string' ? input : (input && input.url);
+    return real(MAP[url] || input, MAP[url] ? Object.assign({}, init, { cache: 'no-store' }) : init);
+  };
+})();
+</script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A target · The Cabinet</title>
+<meta name="description" content="One target in the Cabinet of the Receptor Atlas, and every medication that holds it.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Schibsted+Grotesk:wght@400;500;700&family=Fragment+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/tokens.css">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/cabinet/cabinet.css">
+<link rel="expect" href="#drawn" blocking="render">
+</head>
+<body data-room="atrium" data-view="t">
+<aside class="rail" id="rail" aria-hidden="true"><div class="rail-fill" id="railFill"></div></aside>
+<div class="rail-edge" id="railEdge" aria-hidden="true"></div>
+
+<button type="button" class="tab" id="indexTab" aria-expanded="false" aria-controls="index">Index</button>
+<a class="tab tab-atlas" href="the-receptor-atlas.html">↩ Atlas</a>
+
+<nav class="index" id="index" aria-label="Index of the Cabinet" inert>
+  <p class="index-ask" id="indexAsk" hidden></p>
+  <label class="index-find"><span class="sr-only">Find a medication or a target</span>
+    <input id="indexFind" type="search" autocomplete="off" spellcheck="false" placeholder="Find"></label>
+  <div class="index-list" id="indexList"></div>
+</nav>
+
+<main id="view"></main>
+<aside class="note" id="note" role="note" hidden></aside>
+<noscript><p>The Cabinet is drawn by script, so it needs JavaScript to be on.</p></noscript>
+
+<script src="assets/cabinet/data.js"></script>
+<script src="assets/cabinet/figures.js"></script>
+<script src="assets/cabinet/cabinet.js"></script>
+<script src="assets/cabinet/target.js"></script>
+<span id="drawn" hidden></span>
+</body>
+</html>

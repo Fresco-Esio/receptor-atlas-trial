@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script>
+/* Published snapshot: read-only API served as bundled static JSON. */
+(function () {
+  var MAP = {
+    '/api/atlas/cabinet': 'data/cabinet.json',
+    '/api/atlas/cabinet/binding': 'data/cabinet-binding.json',
+    '/api/atlas/ledger': 'data/ledger.json',
+    '/api/atlas/ledger/clinical': 'data/ledger-clinical.json',
+    '/api/atlas/archive/narrative': 'data/archive-narrative.json'
+  };
+  var real = window.fetch.bind(window);
+  window.fetch = function (input, init) {
+    var url = typeof input === 'string' ? input : (input && input.url);
+    return real(MAP[url] || input, MAP[url] ? Object.assign({}, init, { cache: 'no-store' }) : init);
+  };
+})();
+</script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Cabinet · The Receptor Atlas</title>
+<meta name="description" content="Every medication in the Receptor Atlas, each drawn as one line of sixteen targets: what it holds, how tightly, and what it does there.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Schibsted+Grotesk:wght@400;500;700&family=Fragment+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/tokens.css">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/cabinet/cabinet.css">
+<link rel="expect" href="#drawn" blocking="render">
+</head>
+<body data-room="atrium" data-view="home">
+<aside class="rail" id="rail" aria-hidden="true"><div class="rail-fill" id="railFill"></div></aside>
+<div class="rail-edge" id="railEdge" aria-hidden="true"></div>
+
+<button type="button" class="tab" id="indexTab" aria-expanded="false" aria-controls="index">Index</button>
+<a class="tab tab-atlas" href="the-receptor-atlas.html">↩ Atlas</a>
+
+<nav class="index" id="index" aria-label="Index of the Cabinet" inert>
+  <p class="index-ask" id="indexAsk" hidden></p>
+  <label class="index-find"><span class="sr-only">Find a medication or a target</span>
+    <input id="indexFind" type="search" autocomplete="off" spellcheck="false" placeholder="Find"></label>
+  <div class="index-list" id="indexList"></div>
+</nav>
+
+<main id="home">
+  <header class="atrium" id="atrium" data-room="atrium">
+    <svg class="rings" viewBox="0 0 1000 1000" aria-hidden="true">
+      <g fill="none" stroke="oklch(70% 0.055 80 / 0.14)">
+        <circle cx="500" cy="500" r="180"/><circle cx="500" cy="500" r="300"/><circle cx="500" cy="500" r="420"/>
+        <ellipse cx="500" cy="500" rx="470" ry="160" transform="rotate(-18 500 500)"/>
+        <ellipse cx="500" cy="500" rx="470" ry="160" transform="rotate(42 500 500)"/>
+        <circle cx="500" cy="80" r="4"/><circle cx="800" cy="500" r="3"/><circle cx="252" cy="312" r="3"/>
+      </g>
+    </svg>
+    <div class="atrium-title">
+      <h1>The Cabinet</h1>
+      <p class="atrium-sub"><span data-count>Ninety-two</span> medications, each drawn as one line of sixteen targets: what it holds, how tightly, and what it does there.</p>
+      <label class="find"><span class="sr-only">Find a medication or a target</span>
+        <input id="find" type="search" autocomplete="off" spellcheck="false" placeholder="Find a medication"></label>
+    </div>
+    <nav class="contents" id="contents" aria-label="Contents"></nav>
+    <ul class="key" id="key" aria-label="How to read a line"></ul>
+  </header>
+  <div id="halls"></div>
+  <footer class="colophon" data-room="vault">
+    <p class="mark">The Cabinet</p>
+    <p>An educational reference, not a dosing or treatment guide. Each value is the median of the human measurements PDSP holds for that pair; actions are from IUPHAR/BPS.</p>
+  </footer>
+</main>
+
+<aside class="note" id="note" role="note" hidden></aside>
+<noscript><p>The Cabinet is drawn by script, so it needs JavaScript to be on.</p></noscript>
+
+<script src="assets/cabinet/data.js"></script>
+<script src="assets/cabinet/figures.js"></script>
+<script src="assets/cabinet/cabinet.js"></script>
+<script src="assets/cabinet/home.js"></script>
+<span id="drawn" hidden></span>
+</body>
+</html>

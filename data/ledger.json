@@ -1,0 +1,220 @@
+[
+  {
+    "id": "d1",
+    "alias": "d1",
+    "label": "Dopamine D1",
+    "claim": "Prefrontal D1 is the dominant cortical DA receptor; tone follows an inverted-U — too little or too much degrades working memory.",
+    "status": "provided",
+    "source": {
+      "id": 1,
+      "authors": "Jones-Tabah et al.",
+      "year": 2022,
+      "title": "The Signaling and Pharmacology of the Dopamine D1 Receptor",
+      "pmid": "35110997",
+      "doi": "10.3389/fncel.2021.806618"
+    }
+  },
+  {
+    "id": "d2",
+    "alias": "d2",
+    "label": "Dopamine D2",
+    "claim": "Antipsychotic efficacy = mesolimbic D2 blockade; EPS = nigrostriatal and hyperprolactinemia = tuberoinfundibular D2 blockade.",
+    "status": "provided",
+    "source": {
+      "id": 5,
+      "authors": "Ford CP",
+      "year": 2014,
+      "title": "The role of D2-autoreceptors in regulating dopamine neuron activity and transmission",
+      "pmid": "24463000",
+      "doi": "10.1016/j.neuroscience.2014.01.025"
+    }
+  },
+  {
+    "id": "dat",
+    "alias": "dat",
+    "label": "DAT — Dopamine Transporter",
+    "claim": "Methylphenidate blocks DAT; amphetamine reverses it — both raise synaptic DA.",
+    "status": "provided",
+    "source": null
+  },
+  {
+    "id": "ht1a",
+    "alias": "5ht1a",
+    "label": "Serotonin 5-HT1A",
+    "claim": "5-HT1A partial agonism is anxiolytic, reduces parkinsonism and augments SSRI/antipsychotic effect; autoreceptor desensitization underlies antidepressant delay.",
+    "status": "provided",
+    "source": {
+      "id": 8,
+      "authors": "Albert & Vahid-Ansari",
+      "year": 2018,
+      "title": "The 5-HT1A receptor: Signaling to behavior",
+      "pmid": "31079617",
+      "doi": "10.1016/j.biochi.2018.10.015"
+    }
+  },
+  {
+    "id": "ht2a",
+    "alias": "5ht2a",
+    "label": "Serotonin 5-HT2A",
+    "claim": "5-HT2A antagonism disinhibits nigrostriatal DA, reducing EPS — the basis of ‘atypicality’; agonism underlies psychedelics.",
+    "status": "provided",
+    "source": {
+      "id": 10,
+      "authors": "Nichols DE",
+      "year": 2016,
+      "title": "Psychedelics",
+      "pmid": "26841800",
+      "doi": "10.1124/pr.115.011478"
+    }
+  },
+  {
+    "id": "ht2c",
+    "alias": "5ht2c",
+    "label": "Serotonin 5-HT2C",
+    "claim": "5-HT2C antagonism disinhibits prefrontal DA/NE (antidepressant) but drives weight gain.",
+    "status": "provided",
+    "source": {
+      "id": 11,
+      "authors": "Reynolds et al.",
+      "year": 2006,
+      "title": "The 5-HT2C receptor and antipsychotic-induced weight gain — mechanisms and genetics",
+      "pmid": "16785265",
+      "doi": "10.1177/1359786806066040"
+    }
+  },
+  {
+    "id": "sert",
+    "alias": "sert",
+    "label": "SERT — Serotonin Transporter",
+    "claim": "SERT inhibition by SSRIs/SNRIs is the foundational antidepressant/anxiolytic mechanism; ~80% occupancy needed, with delayed onset.",
+    "status": "provided",
+    "source": {
+      "id": 13,
+      "authors": "Murthy MK",
+      "year": 2025,
+      "title": "Molecular pathways linking the serotonin transporter (SERT) to depression",
+      "pmid": "40789515",
+      "doi": "10.1016/j.neuroscience.2025.08.009"
+    }
+  },
+  {
+    "id": "a1",
+    "alias": "alpha1",
+    "label": "Alpha-1 Adrenergic",
+    "claim": "α1 antagonism improves PTSD nightmares (prazosin) and agitation, but causes orthostasis and sedation.",
+    "status": "provided",
+    "source": {
+      "id": 14,
+      "authors": "Kulkarni & Wilkinson",
+      "year": 2024,
+      "title": "Adrenoceptors and Hypertension",
+      "pmid": "38890192",
+      "doi": "10.1007/164_2024_719"
+    }
+  },
+  {
+    "id": "a2",
+    "alias": "alpha2",
+    "label": "Alpha-2 Adrenergic",
+    "claim": "Postsynaptic α2A agonism (guanfacine, clonidine) strengthens prefrontal connectivity; presynaptic α2 antagonism (mirtazapine) boosts NE/5-HT.",
+    "status": "provided",
+    "source": {
+      "id": 16,
+      "authors": "Szabo B",
+      "year": 2024,
+      "title": "Presynaptic Adrenoceptors",
+      "pmid": "38755350",
+      "doi": "10.1007/164_2024_714"
+    }
+  },
+  {
+    "id": "b1",
+    "alias": "beta1",
+    "label": "Beta-1 (β1) Adrenergic",
+    "claim": "Central β role in psychiatry is limited; propranolol is used for performance/somatic anxiety and akathisia.",
+    "status": "provided",
+    "source": {
+      "id": 17,
+      "authors": "Ahles & Engelhardt",
+      "year": 2014,
+      "title": "Polymorphic variants of adrenoceptors: pharmacology, physiology",
+      "pmid": "24928328",
+      "doi": "10.1124/pr.113.008219"
+    }
+  },
+  {
+    "id": "net",
+    "alias": "net",
+    "label": "NET — Norepinephrine Transporter",
+    "claim": "NET inhibition (atomoxetine, SNRIs, TCAs) raises NE — and DA in prefrontal cortex (sparse DAT) — treating ADHD/depression.",
+    "status": "provided",
+    "source": {
+      "id": 18,
+      "authors": "Mwesigwa & Shibao",
+      "year": 2024,
+      "title": "Norepinephrine Reuptake Inhibition, an Emergent Treatment…",
+      "pmid": "38766862",
+      "doi": "10.1161/HYPERTENSIONAHA.124.22069"
+    }
+  },
+  {
+    "id": "nmda",
+    "alias": "nmda",
+    "label": "NMDA Glutamate Receptor",
+    "claim": "NMDA hypofunction is a leading model of schizophrenia’s negative/cognitive symptoms; ketamine (high-affinity) vs memantine (low-affinity) open-channel block differ clinically.",
+    "status": "provided",
+    "source": {
+      "id": 19,
+      "authors": "Hansen et al.",
+      "year": 2018,
+      "title": "Structure, function, and allosteric modulation of NMDA receptors",
+      "pmid": "30037851",
+      "doi": "10.1085/jgp.201812032"
+    }
+  },
+  {
+    "id": "h1",
+    "alias": "h1",
+    "label": "Histamine H1",
+    "claim": "Central H1 antagonism causes sedation and weight gain (olanzapine, quetiapine); peripheral effects underlie antihistamine use.",
+    "status": "provided",
+    "source": {
+      "id": 25,
+      "authors": "Panula et al.",
+      "year": 2015,
+      "title": "International Union of Basic and Clinical Pharmacology: Histamine receptors",
+      "pmid": "26084539",
+      "doi": "10.1124/pr.114.010249"
+    }
+  },
+  {
+    "id": "m1",
+    "alias": "m1",
+    "label": "Muscarinic M1",
+    "claim": "M1 agonism (xanomeline) is procognitive/antipsychotic; M1 blockade causes anticholinergic effects but can reduce EPS.",
+    "status": "conflicting",
+    "source": {
+      "id": 26,
+      "authors": "Kruse et al.",
+      "year": 2014,
+      "title": "Muscarinic acetylcholine receptors: novel opportunities for drug discovery",
+      "pmid": "24903776",
+      "doi": "10.1038/nrd4295"
+    }
+  },
+  {
+    "id": "mor",
+    "alias": "mu",
+    "label": "μ-Opioid Receptor (MOR)",
+    "claim": "MOR full agonism (morphine), partial agonism (buprenorphine), and antagonism (naloxone) span analgesia, OUD treatment, and reversal.",
+    "status": "provided",
+    "source": {
+      "id": 29,
+      "authors": "Pasternak GW",
+      "year": 2018,
+      "title": "Mu Opioid Pharmacology: 40 Years to the Promised Land",
+      "pmid": "29413524",
+      "doi": "10.1016/bs.apha.2017.09.006"
+    }
+  }
+]
